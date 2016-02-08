@@ -1,0 +1,7 @@
+---
+layout: post
+title: How I quit smoking, or at least trying to
+date: '2015-06-11 11:33:49'
+---
+
+<p>I have been smoking since I was 20, 12-13 years now. And I know lot of people who smoke. So here are my observation on trying to quit smoking.</p><p><br/></p><p>1. Run timer. Number of hours since last smoke. Every time you feel like a smoke, have a look at the clock and it will pass.</p><p>2. First week is hard. Very hard. So bury yourself in work. Buy tickets to movies, shows whatever. Just make sure you dont have much time to kill. Boredom often will lead to need for a smoke.</p><p>3. Exhaust yourself physically. Exercise, walks, runs, sex - whatever works for you in fine. This will also let you have good sleep and make it that much easier.</p><p>4. I live in Australia, so one advantage is I cant buy single cigarette like in India. So if I buy a packet I feel like I need to finish it, more so because it is expensive. Just have one and chuck rest in the bin before you even light up. So even if you slip, you dont feel compulsion to finish rest of the pack.</p><p>5. First weekend is very hard. So have some plans already in place so you dont have any free time. If you are single or cant make any social plans or cant afford just ride the trains/trams/buses all day long. You cant smoke at stations or in commute, so just get off at the last stop and get on the next train immediately.  </p>

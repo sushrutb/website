@@ -1,0 +1,7 @@
+---
+layout: post
+title: Educated, Are we?
+date: '2007-05-29 15:26:00'
+---
+
+<p>I was having a little debate with a so called friend of mine about turning off computer while leaving from office.<br/><br/>This was the argument he presented.<br/></p><ol><br/><li>It takes too much time (2 mins i guess) to turn on the computer.<br/></li><li>I use to many applications which require logging in (I say max 10 apps, which can be automated using a simple script). So this takes lot of time.<br/></li><li>And I want to start working as soon as i hit the office without wasting time.<br/></li></ol><br/>I will say it would be taking around 5-10 mins for applications logging in, comp booting up. If Linux would take lesser may be.<br/>So we high-tech professionals are ready to waste electricity, which is already scarce in countries like ours so that we can save 5-10 mins<br/>and utilize those 5-10 mins instead on using useless stuff like Orkut.<br/><br/><span style="font-weight:bold;">Really we are highly educated people now!!</span><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/5416117946427095362-5439540954286011375?l=soranthou.blogspot.com" alt=""/></div>

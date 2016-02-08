@@ -1,0 +1,7 @@
+---
+layout: post
+title: Jatana
+date: '2007-08-14 05:00:00'
+---
+
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp0.blogger.com/_cWdd7TsTIWo/RsE3qwFCD9I/AAAAAAAAAEI/ztVzeVRArFo/s1600-h/jatana.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp0.blogger.com/_cWdd7TsTIWo/RsE3qwFCD9I/AAAAAAAAAEI/ztVzeVRArFo/s320/jatana.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5098417460760154066"/></a></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/5416117946427095362-1844429345020848846?l=soranthou.blogspot.com" alt=""/></div>

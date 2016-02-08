@@ -1,0 +1,13 @@
+---
+layout: post
+title: Technology buzzwords for 2009
+date: '2008-12-23 10:04:34'
+---
+
+<p>Well everybody is talking about what to watch out for in 2009, so here is my own list of things I am looking out for in 2009.
+</p><ol><li><strong>Cloud </strong>- I would not be surprised if Cisco finally decides to throw away appliance model and embrace cloud for its VoIP product offerings. Clouds are here to stay. Replicated, distributed (continentally) pay as you go payment and deployment models are working out good for all sorts of businesses. It is going to explode in 2009 given the current economic situations. Its sad to see though that bad times like war, recession are required to propel growth of the common sense and technologies based on common sense.</li>
+	<li><strong>SaaS</strong> - It was web based applications that dominated the enterprise market in late 90s and 00s, next entire decade will see world transitioning to Cloud based SaaS applications. But I would like to see collaborative SaaS something which takes ESBs as way to integrate various services available in the SaaS form and provides single-sign on and integration to end user. I would like to see integrations between various vendors like Salesforce, Google, Zoho for a start. Widgets/Gadgets/Plugin based Enterprise SaaS platform is what I am looking out for in 2009</li>
+	<li><strong>Android </strong>- Well you will not agree on this and I know why. But let me tell you Android is going to be big. Bigger than Symbian, bigger than Win mobile and bigger than iPhone. 2009 will see it getting the true momentum it deserves. If you want, check the amount of job postings for Android on freelancing websites. It has rose by at a very high rate and in 6-12 months time it will take over iPhone.</li>
+	<li><strong>Mash-up</strong> - With Mozilla ubiquity now available for beta testing, I see mash-ups hitting a whole new level in next year.</li>
+	<li><strong>Enterprise 2.0 </strong>- Its not more of technology, but still there is significant technology part involved in it so. Enterprise 2.0 is not just about having collaborative environment for enterprises, but its about collaboration between tools, frameworks from different vendors to talk/communicate collaborate with each other. Open ended architectures with web service interfaces are already being implemented. But with rise of SaaS I see this taking a big leap. So all your tools, frameworks, no matter if Microsoft, IBM, HP or any one else is the vendor, should and can collaborate with each other. Any one who is working in this space, do contact me asap :-) .</li>
+</ol>

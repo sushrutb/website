@@ -1,0 +1,7 @@
+---
+layout: post
+title: Vyakhya
+date: '2007-06-17 23:08:00'
+---
+
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp3.blogger.com/_cWdd7TsTIWo/RnW_FOoIliI/AAAAAAAAABE/J5demoUZMuM/s1600-h/vyakhya.JPG"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp3.blogger.com/_cWdd7TsTIWo/RnW_FOoIliI/AAAAAAAAABE/J5demoUZMuM/s320/vyakhya.JPG" border="0" alt="" id="BLOGGER_PHOTO_ID_5077174251476784674"/></a></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/5416117946427095362-6429575251099282833?l=soranthou.blogspot.com" alt=""/></div>

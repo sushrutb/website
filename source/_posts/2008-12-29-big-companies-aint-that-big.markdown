@@ -1,0 +1,19 @@
+---
+layout: post
+title: Big companies aint that big
+date: '2008-12-29 10:29:09'
+---
+
+<p>Every where I have gone, be it barcamps, be it startup events, one question asked by lot of budding entrepreneurs is &ldquo;What if BIG companies decide to enter my market and compete with me?&rdquo;. What I generally feel is small companies, startups should not be afraid of competing with big companies. Instead big companies are always afraid that some entrepreneur is going come up with bright idea and take up market pie.
+
+<strong>Reasons why you should not fear big companies -</strong>
+</p><ol><li><strong>Google factor - </strong>Google is not the only company around. Yes, it is one of the most respected, highly competitive company with great products, has tremendous market reach. But still it is not the only company. There are many big companies Yahoo, Microsoft, AOL, Time Warner, Facebook and others.</li>
+	<li><strong>Big companies ain&rsquo;t that big - </strong>So Google is around 100Bn, Microsoft is around 300Bn in market capitalization. These companies bring in few billion dollars in profit. True. That does not mean they can invest all this profit in new product. Nope. They have to pay dividends, provide market guidance, provide information about capital expenditure. If a startup is well funded i.e. backed by VC, it typically has amount of cash necessary to compete with biggies. Series A + B funding is typically the amount biggies will also invest in some new product, at least to start off with. So on cash wise you are almost as big as them.</li>
+	<li><strong>Market mobilization - </strong>Once a big company enters a market, it enters huge. It mobilizes millions of users/customers. If you are smart and can position yourself well, you can take advantage of such market conditions which are in fact very conducive for your product offerings.</li>
+	<li><strong>Smoother and better exit options - </strong>Say you built a new kick-ass web application. And Google decides to copy your idea and build a me-too product. Good, in fact great for you. Now every big company which is looking to compete with Google will be interested in the market and essentially looking to acquire you. These companies will be giving you much better valuations, better terms and conditions and more respect!</li>
+	<li><strong>VC interest - </strong>Its very very difficult to convince VCs about competition and about market size. Once a big company enters your market, you have a case study which you can sell to VCs a little more easily than otherwise you would have.</li>
+	<li><strong>Agility of management - </strong>Google CEO and co-founders might be the best in the world. I think they are. But can they be as Agile as you? How much do they have to lose if they make mistake? Billions of dollars. How much you have to lose? Probably nothing. You have only one thing to focus on. They have 100s or 1000s of things asking for attention. You are competing with, say, only them. They are competing with lot of such entrepreneurs in varied markets. So you can move much faster. Adapt to market requirements quickly. Your spiral of innovation is much more faster than theirs.  One example - It took months for Google to actually integrate Orkut and Blogger or Orkut and Picasa. Still integration is not perfect, you cant view comments on blog in Orkut. Hence, its not so easy for companies like Google to catch up with market. That&rsquo;s why they acquire in the first place instead of building.</li>
+</ol>
+Bottom-line is don&rsquo;t worry about big companies. Millions of dollars have been invested in search based startups, after the Google went public. Why? Because VCs know market is huge and they know that even Google can be defeated! Go for it.
+
+<em>PS: Thanks for your feedback on theme. I guess I will continue with this one for next couple of months and will review again.</em>

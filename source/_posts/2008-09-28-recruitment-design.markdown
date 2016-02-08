@@ -1,0 +1,13 @@
+---
+layout: post
+title: Recruitment Design
+date: '2008-09-28 10:40:13'
+---
+
+<p>Probably the most important responsibility of any entrepreneur is to hire good people. But how do you do that? Be it product company, services, media or any other company, you need good people to sustain growth. Most companies despite having great product or great service offerings fail in this aspect.</p>
+
+<p>What I do with StartupForStartups.com is, I have created an organizational chart. Now since we are a service collaborator company this chart is extensible. But we identified all the roles/responsibilities that will be required in team members once we start maturing. I have it prepared for next 5 years in detail and next 10 years high level view.</p>
+
+<p>What this chart contains is, different skill sets that are required from a particular resource who is playing a particular role in the company. For example, right now I am HR head, Operations Head and Business Development head apart from taking up few key technical responsibilities. Now I know exactly when I will be giving up operations responsibility and what skill set I am going to look for in a person when I want to hire him as a operations head. Along with that, these skills are broken down into multiple charcteristics like mandatory, preferable etc. One of the category is if a person can acquire a particular skill and if can then how. Is there any training program being offered which will help, or some in-house training we can design. So once I know all these things I put up cost against each skill-set and approximate value of the resource to recruit. And then begins optimization of cost and skills.</p>
+
+<p>Second important use of such oraganizational chart is, in a startup you can not hire all the people from outside playing limited role. Few roles have to be taken up by existing team members. Also you have to show growth path to your initial hires. So when you have hired few people. Identify what they are good at what they can learn in 1-2 years. Now cross check this with kind of skill sets you are will be looking for for a particular role. So not only you provide growth path to your team members but you create long term relationship with them. One example for such growth pattern is can a technical team member grow up to become an business development manager? or delivery manager? There are many possibilities open when you know what you are looking for and when you will need that.</p>

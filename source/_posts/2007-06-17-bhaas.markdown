@@ -1,0 +1,7 @@
+---
+layout: post
+title: Bhaas
+date: '2007-06-17 21:32:00'
+---
+
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp2.blogger.com/_cWdd7TsTIWo/RnWon-oIleI/AAAAAAAAAAk/PCXo2q26GsQ/s1600-h/bhas.JPG"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp2.blogger.com/_cWdd7TsTIWo/RnWon-oIleI/AAAAAAAAAAk/PCXo2q26GsQ/s320/bhas.JPG" border="0" alt="" id="BLOGGER_PHOTO_ID_5077149559709799906"/></a></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/5416117946427095362-1632748105544492475?l=soranthou.blogspot.com" alt=""/></div>

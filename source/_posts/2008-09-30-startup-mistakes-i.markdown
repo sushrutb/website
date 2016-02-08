@@ -1,0 +1,11 @@
+---
+layout: post
+title: Startup Mistakes - I
+date: '2008-09-30 05:46:58'
+---
+
+<p>We learn history in school and then we forget it. Thats probably the biggest failure of education system. We just dont give importance to history and lessons we can learn from it.</p>
+
+<p>Okay. So first lesson from history. Dont fight in the battles/wars . You are a leader and your job is to lead. Remember Third battel of Panipat? Battle between Peshwas and Abdali was won by Abdali and which started the down hill of Peshwas and Maratha empire. One of the biggest mistake which Sadashivrao Bhau (who was leading Peshwa army) did was he fought in the battle! Look at Abdali and how he lead his troops to victory. When Nawab started to run away from battle-field Abdali was there to stop him and send him back. When one side of his army was getting hammered, he was looking at it from a distance and sending reinforcements. And when Holkar/Shinde were running away where was Bhau? Fighting. When Vishwasrao was killed and troops lost the courage, instead of giving them hope where was Bhau? Fighting. He was a great fighter. Indeed. Very brave, very courageous. But was he a good leader? I don&rsquo;t think so. In all his effort in building Maratha Empire, Shivaji Maharaj lead Maratha army to numerous victories. In how many those battles/wars he actually fought with enemy? None! Was it because he wasn&rsquo;t a good fighter, brave, courageous person? No. He knew better. He knew his job is to lead and only he can do it. He is one with vision and hence he only can lead. Fighting can be delegated.</p>
+
+<p>To all those startup entrepreneurs thats my advice, focus on leading, providing vision to your company and nurture your concept. Dont waste your time on coding/development/operations and other simpler tasks which any one can do. No matter how much cutting edge technology your building, coding is not your job. Get over your techie instincts if you want to be successful. I know its not possible to have entire dev team working for you from day one, but get over it as soon as possible.  If you keep wasting your time and energy on smaller tasks then you are going to lose.</p>

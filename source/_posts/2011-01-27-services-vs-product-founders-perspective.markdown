@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'Services Vs Product : Founder''s perspective'
+date: '2011-01-27 08:34:43'
+---
+
+<p>To provide context - I was running a services company for 30 months. We worked on various kind of projects. Consumer facing e-commerce app, enterprise apps, financial services products, backend infrastructure of of a gene testing labs, mobile apps. So a wide range of projects. Product startup I am doing now is, <a href="http://prolinkd.com">Prolinkd</a>, an Internet app for B2B search and sales.</p>
+
+<p>Following are the differences I observed so far.</p>
+
+<p><strong>Lack of business goals understanding - </strong></p>
+
+<p>Even though often I have pushed the companies we worked with to share business goals they are trying to achieve, its not possible to understand everything from where you are. Its mostly refined to a point before being handed down to you to execute. Most of our clients helped in understanding every little thing about business goals, but there is only so much time. Your main objective is reduced to executing technology so that next version can be rolled to market as quickly as possible. So you tend to get into habit, even if unknowingly, to just take up specs and execute on them.</p>
+
+<p>Where as in product startup, every person has to know what business impact will be for things they are working on. At least at very early stage and for very early team members. For example - In services work, when certain decisions were made to change deployment infrastructure, even if I personally understood why the change, I had no further incentive to share this with the team working on it. If they ask you of course share. Now I have to share everything. I was just talking to the guy who is writing up deployment scripts and reiterate multiple times about how critical deployment scripts are. As a product startup we have to iterate quickly. If a customer reports a bug, we will need 10 mins to fix it most times. But if we dont have sound deployment scripts we will have to wait another few hours to apply the patch. And when you can orient some one to think in these hard business terms, they understand things quickly and make sure they take their time but do a great job instead of just good. I sit with our server guy and do the math of calculating cloud costs and better ways to utilize our very little runway.</p>
+
+<p>Make no mistake, even while running a services company I tried to do all these things. But you as a manager have so little information that it becomes difficult to share that half knowledge.</p>
+
+<p><strong>Control</strong></p>
+
+<p>Even though for all projects we worked on, we owned the technology side of it. But still we had very little control on choosing. I debated multiple times with a founder on how mongodb is far better suited for his needs than any RDBMS application. I had to end up letting go of the deal. Most services guys would not do that. You are getting a customer, you bring him in and get things done best to your capabilities in given constraints. I learned that hard way.</p>
+
+<p>In product startup, if we are not happy about slightest of things, we wont release it. No matter what internal deadlines are. We were suppose to launch yesterday, but we delayed by another 2 weeks as I am still not happy with 3 major screens and their UI. We have already done entire UI twice. And will do it for as much time as it takes. When you work for some one else, you are not at liberty to take such decisions. You are given a deadline, you ship. Even if code is not well designed, you make peace with yourself that you will come back and re-factor it. Unfortunately pressures of next release will not allow you to do so most of the times. And since client has never seen the code himself, no matter how much you make him aware of that fact, he will still go ahead with next to-do item.</p>
+
+<p>So essentially you dont have control to take decisions which will make what you are doing from good to great. And since decision makers are not aware of the fact that what they have got is just good, they can not take decisions for you as well.</p>
+
+<p><strong>Highs and lows -</strong></p>
+
+<p>As a services shop our highs were defined by new deals and lows by losing out on promising new customers and letting go of existing. As a product company my personal highs are when we nail down UI for a particularly complex feature. Or when we nailed down our middleware/backend architecture. Customers is of course important aspect. But as a services business I required 5 small sized deals to reach a particular revenue target. To achieve same target (with 3 times more profit), I will need at least 800 paying customers. You can not keep obsessing about losing one or two of them or celebrate every time a new customer upgrades to paid version. 800 parties in an year would be overkill.</p>
+
+<p>But most important part of that comes from philosophical change. To win in services business, you need great sales skills. So all your focus in on that part. So your highs and lows are tied with sales performance. Where as in product space, you can win with having a great product and not screwing up sales. So your highs and lows are bound with product performance and not with sales.</p>
+
+<p><strong>Attitude</strong></p>
+
+<p>No matter how much you try, your thinking of human resources becomes very different in a product company than in a services company. For example - we right now have 3 interns executing a module which makes it easy for product manager and developers to monitor our product. Almost everything can be re-done through this interface, so that we can analyze everything. Each significant event which can not be tracked through <a href="http://mixpanel.com">mixpanel</a>, is tracked. All back-end actors spit out important logging information and all these are loaded up in the admin module. Anyways enough technical details. Point is - during services work, I generally made interns work on some internal tool or just prototyping some idea. As for me they were non-billable entities. Where as now they are suppose to contribute. If we are investing in their education and training they are suppose to give. And we will be using that admin module everyday. So they got to work on something real which will be used and we got paid back having a working thing we really needed! Now interns, trainees are not just non-billable entities, but contributing members of the team!</p>
+
+<p><strong>Satisfaction</strong></p>
+
+<p>For almost 3 years I lost my sleep obsessing over new deal we are looking to win. Or new people we need to hire to service the demand. Or waiting for confirmation on release status. Those were good reasons to lose sleep over.</p>
+
+<p>Now I am founder and product manager. So I lose sleep when I am just not able to understand and depict how to implement certain features. There is one screen I still have not done any work on and we may just drop it from first set of features, as it anyways does not belong to MVP. I lose sleep when a prospective customers gives me feedback about product, which really makes me think. These are great reasons to lose sleep over.</p>

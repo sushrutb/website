@@ -1,0 +1,7 @@
+---
+layout: post
+title: Sher - I
+date: '2007-08-18 07:45:00'
+---
+
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp1.blogger.com/_cWdd7TsTIWo/RsajrQzIvJI/AAAAAAAAAEY/wUVNTSB-zls/s1600-h/sher-I.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp1.blogger.com/_cWdd7TsTIWo/RsajrQzIvJI/AAAAAAAAAEY/wUVNTSB-zls/s320/sher-I.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5099943591682817170"/></a></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/5416117946427095362-7210326911432289481?l=soranthou.blogspot.com" alt=""/></div>

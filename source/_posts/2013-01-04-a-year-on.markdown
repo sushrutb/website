@@ -1,0 +1,15 @@
+---
+layout: post
+title: A year on..
+date: '2013-01-04 13:52:00'
+---
+
+<p>It has been a while since I wrote a post. </p>
+<p>I moved to Pune exactly a year ago, from Nasik. A lot has happened in this year. Took up 3 different consulting gigs. Built 4 different products/app of my own. Learnt a language (Python) with few tools around it. Picked up couple of skills. Made few new friends, got rid off few. 3 different long vacations. 30 odd books and couple of new TV shows, <a href="http://www.imdb.com/title/tt0944947/" title="Game of Thrones" target="_self">Game of Thrones</a> in particular. Lots of movies, <a href="http://www.imdb.com/title/tt1832382/" title="A separation" target="_blank">A separation</a>, the best one I saw this year.</p>
+<p>I have always loved living in a small city. I feel more comfortable and much less intimidated. Big cities are just crowd of people. I feel kind of lost. Of course it is full of interesting people. And got to meet lot of them. But still in the end, you are just part of crowd. Anyways since professionally I do not have choice, have to stick around and perhaps I will get comfortable or at least used to it.</p>
+<p>And now - I am doing a new startup. I built 4 different products in last 12 months. From marketing automation to a collaboration app. But I realized I want to do a consumer facing product. I am not very good at that. But that is what I want to do. </p>
+<p>Enter -  <a href="http://simplycious.com" title="Simplycious" target="_blank">simplycious.com</a> - A product search and discovery tool.</p>
+<p>It has only been about 27 days since I started writing code for it. Everyday has been a total fulfillment. I wake up at 5am just because I am restless to implement a feature that has been cooking in my brain for some time. Been long since I have enjoyed building something so much. So what ever happens I know I am not going to regret a single day of it. </p>
+<p>Looking forward to 2013 and another year full of possibilities. </p>
+<p>PS- FYI it has also been six years since I left a job and started on my startup journeys. No success yet, but will not give up. Ever.</p>
+<p>Happy new year everyone!</p>
