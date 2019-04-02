@@ -6,4 +6,5 @@ group :development do
   gem 'rake', '~> 10.4.2'
   gem 'sass', '~> 3.4.10'
   gem 'jekyll', '~> 3.8.5'
+  gem 'jekyll-paginate'
 end

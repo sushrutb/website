@@ -3,7 +3,10 @@ permalink   : /blog/:year/:title/
 markdown    : kramdown
 highlighter : pygments
 
-paginate: 3
+plugins:
+  - jekyll-paginate
+
+paginate: 10
 paginate_path: "/blog/page/:num/"
 comments: true
 
