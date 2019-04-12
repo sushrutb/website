@@ -60,3 +60,35 @@ tags:
 
 <br/>
 > “Most important quality is being passionate and persistent and not letting go - Terry Sejnowski"
+
+<br/>
+##### Interview with Benny, the language hacker
+* Learn language because you like the culture and want to embrace it.
+* You don’t need to speak fully formed sentences to begin with.
+* Be ready to make lots of mistakes, that is how you learn.
+* Whether you think you can, or you can not, you are right - Henry Ford
+* Don’t make excuses.
+* Persistence
+* Tools for language learning
+  * memrise
+  * ankisrs
+* His book and website - https://www.fluentin3months.com/
+
+<br/>
+##### Interview with Dr Rober Bilder
+* Openness to new experience drives creativity.
+* Agreeableness has negative correlation to creativity.
+* Zooming in and zooming out of a problem helps gain different perspective.
+>“Leadership is ability to disguise panic."
+
+<br/>
+##### Interview with Daphne Gary-Grant, writing coach
+* Don’t write with your focused brain.
+* Use mind mapping to actively engage diffused mode.
+  * Important to have a paper in landscape when doing mind mapping.
+* Memorisation can sometimes be very useful.
+* Don't edit while writing.
+  * Don't mix diffused mode activity with focused mode.
+* writeordie.com - app for writing. Pomodoro for writing.
+* Don’t worry if what you are writing in not great. Get it out on the paper. Fix it during editing.
+  * (My thought) Same can be used a lot while coding. Getting something working, then refactor.
