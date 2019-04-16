@@ -22,7 +22,7 @@ tags:
 * Chunks help brain run more efficiently
 
 <br/>
-How to chunk?
+##### How to chunk?
 * You learn bit by bit forming mini chunks.
 * Step 1: Focused attention.
 * Step 2: Under the idea.
@@ -32,7 +32,7 @@ How to chunk?
   * Top down learning - reading summaries, or reading highlights of a chapter - helps with understanding context.
 
 <br/>
-Illusions of competence
+##### Illusions of competence
 * Try recalling material after you read it - you learn better and at deeper level
 * Re-reading more useful when spaced in time.
 * Highlighting texts
@@ -44,7 +44,7 @@ Illusions of competence
 * Recall outside of study time.
 
 <br/>
-What motivates you?
+##### What motivates you?
 * You cant learn something that you are not into, at least partly due to neuromodulators.
 * Acetylcholine
   * Important for focused learning.
@@ -63,7 +63,7 @@ What motivates you?
 * brainfacts.org
 
 <br/>
-Value of a library of chunks?
+##### Value of a library of chunks?
 * To enhance knowledge it is important to build up chunks of knowledge and form creative connections between them.
 * Preformed chunks help with learning new ideas
 * As you keep learning, you start forming bigger chunks.
@@ -76,7 +76,7 @@ Value of a library of chunks?
 * Don't get stuck while learn. If something seems hard, skip it for now. Once you learn other things it will become easier to learn that concept.
 
 <br/>
-Over learning, choking, einstellung, and interleaving.
+##### Over learning, choking, einstellung, and interleaving.
 * Continuously practicing in the same session, is not as effective.
 * Study session should consist of focus on learning harder content - deliberate practice.
 * Einstellung(mindset) - existing neural patterns prevents new patterns from forming. Obstructing new ideas.
