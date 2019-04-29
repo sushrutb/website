@@ -22,3 +22,5 @@ This blog will host weekly notes from the course. I will update this post to lin
 [Week 1 Notes]({{ site.baseurl }}{% post_url 2019-04-09-week-1-learning-how-to-learn %})
 
 [Week 2 Notes]({{ site.baseurl }}{% post_url 2019-04-15-week-2-learning-how-to-learn %})
+
+[Week 3 Notes]({{ site.baseurl }}{% post_url 2019-04-29-week-3-learning-how-to-learn %})
