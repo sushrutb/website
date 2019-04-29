@@ -8,7 +8,7 @@ Clean Jekyll theme
   This theme requires ruby and rubygems installed
 
 * [x] Clean layout
-* [x] Resposive layout
+* [x] Responsive layout
 * [x] Preprocessor SASS
 * [x] CSS minified
 * [x] Pagination
