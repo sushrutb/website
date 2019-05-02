@@ -29,6 +29,7 @@ tags:
   * Reward - immediate feeling of pleasure.
   * Belief - why the default response, the story you tell yourself about why you have certain habits.
 
+<br/>
 ##### Process vs Product
 * Okay to feel negative when you thinking of doing something.
 * Research finds that non procrastinators feel the same, but put those feelings aside.
@@ -38,13 +39,14 @@ tags:
 * Process also means you are not worried whether you are close to finishing the task or not or get worried when you are behind.
 * Distraction free environment helps.
 
+<br/>
 ##### Harnessing habits/zombies
 * Cue
   * Understand which cues trigger procrastination - location, time, feeling, reaction.
   * Turning off distractions like cellphone etc will avoid most of the cues.
 * Routing
   * Must need to actively focus to avoid going into the default habit.
-  * Figure out a plan that works for you. Turing off wifi, or changing time of day to early morning. Or what ever works.
+  * Figure out a plan that works for you. Turn off wifi, or changing time of day to early morning. Or what ever works.
   * Might need to experiment a bit to figure out what is most suitable to you.
 * Reward
   * Investigate why you are avoiding.
@@ -57,6 +59,7 @@ tags:
   * Hardest part is to believe that you are going to complete a task.
   * Specially when things are hard, you tend to go back to old habits.
 
+<br/>
 ##### Task lists
 * Write list of weekly goals or key tasks.
 * Main a daily to do list.
@@ -66,6 +69,7 @@ tags:
 * Include your reward in the daily to do list or planner.
 * Do the most important task or most disliked task in the morning. At least make progress on it.
 
+<br/>
 #### Memory
 * We have really good spatial and visual memory.
 * Using images as a way to store information can be very effective.
@@ -75,6 +79,7 @@ tags:
 * Spaced repetition, index cards, note taking, oral repetition - all help build memory.
   * Anki system?
 
+<br/>
 ##### Long term memory
 * Hippocampus is important for learning and memory of facts and events.
 * Memories are not fixed, they change all the time.
@@ -85,6 +90,7 @@ tags:
   * Einstein had better than average amount of astrocytes.
   * Could be important to learning and intelligence?
 
+<br/>
 ##### Techniques for building memory
 * Make meaningful (visual) groups.
 * Create abbreviations for meaningful groups.
