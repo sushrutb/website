@@ -6,9 +6,9 @@ date: 2019-05-02 12:47:07
 comments: true
 description: "Week 4: Learning How to Learn"
 keywords: ""
-categories:
+categories: coursera
 
-tags:
+tags: course, notes, learning
 
 ---
 
