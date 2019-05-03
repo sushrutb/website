@@ -1,9 +1,15 @@
 language: ruby
 cache: bundler
+addons:
+  apt:
+    packages:
+      - aspell
+      - aspell-en
 branches:
   only:
   - master
 script:
+  - bash ./buildscript.sh
   - JEKYLL_ENV=production bundle exec jekyll build --destination site
 deploy:
   provider: pages
