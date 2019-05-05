@@ -36,9 +36,9 @@ No progress yet.
 No progress yet. Not sure how to do this with out social media. Any ideas are welcome[^2]!
 
 ###### Acquire new technical skills - mobile app development, front end development.
-Have done some work in kotlin and react native, but not enough. Need to spend more time on this. Did setup travis ci for this blog and some other projects. Also started doing some serious terraform development work for a side project which is nice.
+Have done some work in kotlin and react native, but not enough. Need to spend more time on this. Did setup travis-ci for this blog and some other projects. Also started doing some serious terraform development work for a side project which is nice.
 
 
-[^1]: I started these goals around 28th of March so April counts as first month.
+[^1]: I started these goals around 28 of March so April counts as first month.
 [^2]: Except of course going back on social media!
 [^3]: In the past I have completed a course, as in watched all the videos. But not with in given time. And have never done all the required assignments.
