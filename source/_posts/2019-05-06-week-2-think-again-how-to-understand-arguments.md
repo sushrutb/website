@@ -44,17 +44,17 @@ Another way to solve the problem is to start with shared assumptions.
 
 ##### Ways to solve regression problem.
 1. Assuring
-  1. Authoritative - i assure you, some trustworthy source tells me
-  2. Reflexive - authority is the self.
-  3. Abusive - it is only common sense, only a fool will think etc
+    1. Authoritative - i assure you, some trustworthy source tells me
+    2. Reflexive - authority is the self.
+    3. Abusive - it is only common sense, only a fool will think etc
 2. Guarding - Weakening the premise by introducing uncertainty
-  1. Extent - reducing applicability of the premise.
-  2. Probability
-  3. Mental - mental state of the person making the argument.
+    1. Extent - reducing applicability of the premise.
+    2. Probability
+    3. Mental - mental state of the person making the argument.
 3. Discounting - citing an objection. Phrases - but, although, whereas, nevertheless, even though, still etc.
-  1. The trick of discounting straw people - use easier objections and discount them to keep focus on them rather than possibly more difficult objections.
+    * The trick of discounting straw people - use easier objections and discount them to keep focus on them rather than possibly more difficult objections.
 4. Evaluation - falls with in acceptable standard or widely help standard.
-  1. Slanting - negatively evaluating without giving any reason.
+    * Slanting - negatively evaluating without giving any reason.
 
 ##### Close analysis
 
