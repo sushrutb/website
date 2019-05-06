@@ -58,4 +58,4 @@ Another way to solve the problem is to start with shared assumptions.
 
 ##### Close analysis
 
-Analysing an argument, marking various argument markers, language markers such as assuring, guarding, discounting, or evaluating terms.
+Analyzing an argument, marking various argument markers, language markers such as assuring, guarding, discounting, or evaluating terms.
