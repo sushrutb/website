@@ -13,7 +13,7 @@ tags: personal, review, growth
 ---
 ![Cricket](/images/cricket.jpeg)
 
-As per my [about page]({{ site.baseurl }}{% page_url about %}) I am pursuing few goals from March 2019 to March 2020. Here is update for the first month[^1].
+As per my [about page](/about) I am pursuing few goals from March 2019 to March 2020. Here is update for the first month[^1].
 
 > For the first time I completed a coursera course with all assignments with in given time.[^3]
 
