@@ -53,4 +53,11 @@ navbar:
   - slug: blog
     title: Blog
 
+# Collections
+collections:
+  book_reviews:
+    output: true
+    output_ext: .html
+    permalink: /book-reviews/:path/
+
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
