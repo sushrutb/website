@@ -8,7 +8,9 @@ description: "Week 4: Learning How to Learn"
 keywords: ""
 categories: coursera
 
-tags: course, notes, learning
+tags:
+  - notes
+  - learning
 
 ---
 

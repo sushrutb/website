@@ -8,7 +8,9 @@ description: "Week 1: Learning How to Learn"
 keywords: ""
 categories: coursera
 
-tags: course, notes, learning
+tags:
+  - notes
+  - learning
 
 ---
 ![How To Learn Learning](/images/how-to-learn-learning.png)

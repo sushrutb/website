@@ -8,7 +8,9 @@ description: "Week 2: Think Again, How To Understand Arguments"
 keywords: ""
 categories: coursera
 
-tags: notes, learning, arguments, course
+tags:
+  - notes
+  - arguments
 
 ---
 ![Think Again: How To Understand Arguments](/images/think-again.png)

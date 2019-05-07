@@ -8,7 +8,10 @@ description: "Goal Review: April 2019"
 keywords: ""
 categories: personal
 
-tags: personal, review, growth
+tags:
+  - personal
+  - review
+  - growth
 
 ---
 ![Cricket](/images/cricket.jpeg)

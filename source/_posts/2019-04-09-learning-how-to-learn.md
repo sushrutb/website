@@ -9,6 +9,8 @@ keywords: ""
 categories: coursera
 
 tags:
+  - notes
+  - learning
 
 ---
 ![How To Learn Learning](/images/how-to-learn-learning.png)

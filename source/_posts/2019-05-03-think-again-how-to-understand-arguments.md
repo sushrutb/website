@@ -8,7 +8,9 @@ description: "Think Again: How to understand arguments"
 keywords: ""
 categories: coursera
 
-tags: course, learning, arguments
+tags:
+  - learning
+  - arguments
 
 ---
 ![Think Again: How To Understand Arguments](/images/think-again.png)
