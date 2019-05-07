@@ -35,7 +35,29 @@ tags: notes, learning, arguments, course
 * Social
 * Representational
 * Conventional
-Language acts at three level
+
+##### Language acts at three level
 * Linguistic - is just the utterance of a meaningful sentence.
 * Speech - occurs even if the intended effect does not occur.
 * Conversational - is the bringing about of an effect.
+
+#### Linguistic Acts
+* Meaningful sentence using syntax and semantics of the language.
+
+#### Speech Acts
+* Can be a promise or a threat.
+
+```
+The thereby test
+If I say, “I <something>” then I thereby <something>.
+```
+
+#### Conversational Act
+* Is bringing about the intended effect, which is the standard effect of the speech act speaker is performing.
+* The effect has to occur for it be conversational act.
+
+#### Conversational Maxims
+* Quantity - say the right amount, not too much, not too little
+* Quality - don’t say what you don’t believe or don’t have reason to believe
+* Relevant
+* Manner - be orderly, be brief, avoid obscurity, avoid ambiguity.
