@@ -29,3 +29,13 @@ tags:
 * Is trying to be valid.
 
 > An argument is valid if and only if it is not possible that all the premises are true and conclusion is false.
+
+##### Valid Arguments
+* Not all premises need to be true.
+* Validity is technical term and valid argument is not necessarily a good argument.
+* Not based on what is true, but what can be true when determining validity of an argument.
+* Validity is a necessary condition __not__ sufficient.
+
+> An argument is sound if and only if _all_ of its premises are true and it is valid.
+#### Soundness
+* Conclusion has to be true.
