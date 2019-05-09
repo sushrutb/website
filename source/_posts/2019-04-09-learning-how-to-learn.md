@@ -6,7 +6,7 @@ date: 2019-04-09 10:14:39
 comments: true
 description: "Learning How to Learn"
 keywords: ""
-categories: coursera
+categories: metacoursera
 
 tags:
   - notes

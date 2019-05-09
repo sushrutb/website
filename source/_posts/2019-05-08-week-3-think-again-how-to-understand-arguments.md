@@ -37,5 +37,7 @@ tags:
 * Validity is a necessary condition __not__ sufficient.
 
 > An argument is sound if and only if _all_ of its premises are true and it is valid.
+
 #### Soundness
 * Conclusion has to be true.
+* 
