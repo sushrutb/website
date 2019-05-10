@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Week 1: Successful Negotiations"
+title: "Week 2: Successful Negotiations"
 permalink: week-1-successful-negotiations
 date: 2019-05-08 12:14:01
 comments: true
-description: "Week 1: Successful Negotiations"
+description: "Week 2: Successful Negotiations"
 keywords: ""
 categories:
 
@@ -81,3 +81,41 @@ Book - https://www.amazon.com/dp/B00OE85SDS
 * Use decison tree analysis to calculate cost of potential risk and value of the deal/dispute adjusted to reflect those risks.
 
 ![Decision Tree Analysis Sample](/images/decision-tree.png)
+
+### Cross Cultural Negotiation
+* Negotiation style and values and beliefs can be different.
+* Try to be sensitive to the culture but dont sterotype.
+* https://iveybusinessjournal.com/publication/negotiating-the-top-ten-ways-that-culture-can-affect-your-negotiation/
+* Gap analysis of difference between your and their negotiation styles.
+* Adopt local styles as long as you are knowledgable about it.
+* Be aware of important taboos or gotchas of other cultures and avoid them.
+
+### Ethical Issues And Standards
+* Two clusterss - legal and ethical.
+* Law based ethical standards - intersection of legal and ethical
+  * Fraud
+  * Fiduciary duty
+  * Unconscionability
+* General ethical standards
+  * Organizational standards
+  * Mentor - will my mentor do this?
+  * Gut test.
+  * Newspaper test - how would you feel if it appeared on front page in local Newspaper?
+  * Family test
+  * Golden Rule - treat others the way you will treat others.
+
+### Agents In Negotiations
+
+##### Should you hire an agent?
+* Is the agent better negotiator?
+* Does the agent have specific experience in the issue?
+* Does the issue require technical knowledge of the agent?
+* How much time I do need to invest in negotiation?
+* What is my relationship to the other side?
+
+##### Negotiating with an anget
+* First question - does the agent have authority to close?
+* Types of authority
+  * Express
+  * Implied
+  * Apparent

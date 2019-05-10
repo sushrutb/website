@@ -38,6 +38,27 @@ tags:
 
 > An argument is sound if and only if _all_ of its premises are true and it is valid.
 
-#### Soundness
+##### Soundness
 * Conclusion has to be true.
-* 
+* Arguments can be valid but not sound.
+
+### Argument Reconstruction
+
+> Goal of reconstruction is to make it easier to assess whether argument is good or bad.
+
+##### Stages of Reconstruction
+* Stage 1. - Close analysis.
+* Stage 2. - Get down to basic
+  * Remove all excess content.
+    * Repetitions, _road markers_, tangents, red herring, examples.
+    * Make sure that you have not removed any essential content.
+    * Guarding and assuring terms can sometimes be removed.
+  * List all explicity premises and conclusions in standard form.
+* Stage 3. - Get explanation for things which are unclear.
+* Stage 4. - Organize
+  * Divide in subparts and put them in correct order.
+* Stage 5. - Fill in the gaps
+  * Assess whether each argument is valid.
+  * Add missing premises where needed.
+  * Check each premise for truth.
+* Stage 6. - Assess the argument.
