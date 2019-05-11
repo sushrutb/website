@@ -150,6 +150,52 @@ task :draft do
   end
 end # task :draft
 
+desc "Begin a new book review in #{CONFIG['drafts']}"
+task :book_review do
+  abort("rake aborted: '#{CONFIG['drafts']}' directory not found.") unless FileTest.directory?(CONFIG['drafts'])
+  title = ENV["title"] || "Novo post"
+  author = ENV["author"] || ""
+  stars = ENV["stars"] || "4"
+  book_cover = ENV["book_cover"] || ""
+  book_link = ENV["book_link"] || ""
+  categories = "book-review"
+  # slug do post
+  slug = mount_slug(title)
+
+  begin
+    date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
+    time = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%T')
+  rescue => e
+    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
+    exit -1
+  end
+
+  filename = File.join(CONFIG['drafts'], "#{date}-#{slug}.#{CONFIG['post_ext']}")
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+
+  puts "Creating new book review: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: book-reviews-template"
+    post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "permalink: #{slug}"
+    post.puts "date: #{date} #{time}"
+    post.puts "comments: true"
+    post.puts "description: \"#{title}\""
+    post.puts "categories:"
+    post.puts "#{categories}"
+    post.puts "author: \"#{author}\""
+    post.puts "cover: \"#{book_cover}\""
+    post.puts "stars: \"#{stars}\""
+    post.puts "book-link: \"#{book_link}\""
+    post.puts "tags:"
+    post.puts "#{tags}"
+    post.puts "---"
+  end
+end # task :draft
+
 
 desc "Create a new page."
 task :page do
