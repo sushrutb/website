@@ -11,3 +11,7 @@ tags:
 
 ---
 ![Successful Negotiations](/images/successful-negotiations.png)
+
+### Power In Negotiations
+
+#### Getting To Know The Other Side

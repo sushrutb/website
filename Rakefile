@@ -159,6 +159,7 @@ task :book_review do
   book_cover = ENV["book_cover"] || ""
   book_link = ENV["book_link"] || ""
   categories = "book-review"
+
   # slug do post
   slug = mount_slug(title)
 
@@ -171,9 +172,6 @@ task :book_review do
   end
 
   filename = File.join(CONFIG['drafts'], "#{date}-#{slug}.#{CONFIG['post_ext']}")
-  if File.exist?(filename)
-    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
-  end
 
   puts "Creating new book review: #{filename}"
   open(filename, 'w') do |post|
@@ -184,17 +182,15 @@ task :book_review do
     post.puts "date: #{date} #{time}"
     post.puts "comments: true"
     post.puts "description: \"#{title}\""
-    post.puts "categories:"
-    post.puts "#{categories}"
+    post.puts "categories: \"#{categories}\""
     post.puts "author: \"#{author}\""
     post.puts "cover: \"#{book_cover}\""
     post.puts "stars: \"#{stars}\""
     post.puts "book-link: \"#{book_link}\""
     post.puts "tags:"
-    post.puts "#{tags}"
     post.puts "---"
   end
-end # task :draft
+end # task :book_review
 
 
 desc "Create a new page."
