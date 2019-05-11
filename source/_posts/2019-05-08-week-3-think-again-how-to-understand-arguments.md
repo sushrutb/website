@@ -54,9 +54,12 @@ tags:
     * Make sure that you have not removed any essential content.
     * Guarding and assuring terms can sometimes be removed.
   * List all explicity premises and conclusions in standard form.
-* Stage 3. - Get explanation for things which are unclear.
+* Stage 3. - Sharpen the edges.
+  * Get explanation for things which are unclear.
+  * Break up premises where possible.
 * Stage 4. - Organize
   * Divide in subparts and put them in correct order.
+  * Linear, joint, or branch structures or a combination thereof.
 * Stage 5. - Fill in the gaps
   * Assess whether each argument is valid.
   * Add missing premises where needed.
