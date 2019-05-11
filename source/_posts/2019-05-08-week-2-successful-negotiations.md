@@ -5,14 +5,12 @@ permalink: week-1-successful-negotiations
 date: 2019-05-08 12:14:01
 comments: true
 description: "Week 2: Successful Negotiations"
-keywords: ""
-categories:
-
+categories: coursera
 tags:
+  - "negotiations"
 
 ---
-
-Book - https://www.amazon.com/dp/B00OE85SDS
+![Successful Negotiations](/images/successful-negotiations.png)
 
 [How to assess your negotiation style] (http://negotiationplanner.com/assessing_negotiation_style.html)
 
