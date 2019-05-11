@@ -16,7 +16,7 @@ From March 2019 to March 2020 I am taking most of the time to reflect and redisc
 * Able speak a new language, Italian.
 * Travel to Israel, Cambodia, and Vietnam
 * Acquire a new creative hobby.
-* Running my 5km/day.
+* Running 5km/day.
 * Travel to 10 states in India that I have not been to before.
 * Make friends with people from countries I have never been to before.
 * Acquire new technical skills - mobile app development, front end development.
@@ -25,7 +25,7 @@ From March 2019 to March 2020 I am taking most of the time to reflect and redisc
 ##### Highlights Reel
 
 * Born in 1982, so not sure if I am a millennial or not.
-* Graduated in Sotware Engineering in 2004.
+* Graduated in Software Engineering in 2004.
 * Worked in medium sized company as entry level programmer and then in a startup till late 2006.
 * Started a business late 2006 and was working on it till early 2014.
   * Built a IT outsourcing company, [StartupForStartups](#startupforstartups)
@@ -44,9 +44,9 @@ From March 2019 to March 2020 I am taking most of the time to reflect and redisc
 
 <br/>
 ##### Contact
-Email: sb@sushrutbidwai  
-Phone: +91 9373 0637 54  
-WhatsApp: +91 9373 0637 54  
+Email: sb@sushrutbidwai.com
+Phone: +91 9373 0637 54
+WhatsApp: +91 9373 0637 54
 
 <br/>
 ###### StartupForStartups
