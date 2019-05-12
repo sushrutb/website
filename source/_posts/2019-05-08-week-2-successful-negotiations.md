@@ -12,8 +12,10 @@ tags:
 ---
 ![Successful Negotiations](/images/successful-negotiations.png)
 
-[How to assess your negotiation style] (http://negotiationplanner.com/assessing_negotiation_style.html)
+<br/>
+[How to assess your negotiation style](http://negotiationplanner.com/assessing_negotiation_style.html)
 
+<br/>
 ### Plan for negotiation
 
 ##### Should I negotiate?
@@ -21,6 +23,7 @@ tags:
 * What are the risks? (downside)
 * Is reward after successful negotiation worth it? (upside)
 
+<br/>
 ### Types Of Negotiations
 
 ##### Position or interest based?
@@ -39,6 +42,7 @@ tags:
 
 > Most negotiations start off as positional, but always looks for common interests to build larger pie. And it is an iterative process - positional to interest based to positional.
 
+<br/>
 ##### Dispute resolution or deal making?
 
 | Deal Making     | Dispute Resolution |
@@ -47,6 +51,7 @@ tags:
 | Interest based  | Positional         |
 | Problem solving | Adverserial        |
 
+<br/>
 ##### Dispute resolution processes
 * Power
 * Litigation
@@ -60,6 +65,7 @@ tags:
 
 ### How Should I Analyse Negotiation
 
+<br/>
 ##### What Questions Should I Ask To Complete Analysis?
 * What are your overall goals?
 * What issues are most important to you? And Why?
@@ -73,6 +79,7 @@ tags:
 
 > Zone Of Potential Aggrement(ZOPA) - The difference between reservation price of the parties.
 
+<br/>
 ##### Best Alternative To A Negotiated Aggrement For Dispute Resolution
 * Litigation or Arbitration
 * Understand the elements of legal process and how it works in countries involved.
@@ -80,6 +87,7 @@ tags:
 
 ![Decision Tree Analysis Sample](/images/decision-tree.png)
 
+<br/>
 ### Cross Cultural Negotiation
 * Negotiation style and values and beliefs can be different.
 * Try to be sensitive to the culture but dont sterotype.
@@ -88,6 +96,7 @@ tags:
 * Adopt local styles as long as you are knowledgable about it.
 * Be aware of important taboos or gotchas of other cultures and avoid them.
 
+<br/>
 ### Ethical Issues And Standards
 * Two clusterss - legal and ethical.
 * Law based ethical standards - intersection of legal and ethical
@@ -102,6 +111,7 @@ tags:
   * Family test
   * Golden Rule - treat others the way you will treat others.
 
+<br/>
 ### Agents In Negotiations
 
 ##### Should you hire an agent?
@@ -111,6 +121,7 @@ tags:
 * How much time I do need to invest in negotiation?
 * What is my relationship to the other side?
 
+<br/>
 ##### Negotiating with an anget
 * First question - does the agent have authority to close?
 * Types of authority
