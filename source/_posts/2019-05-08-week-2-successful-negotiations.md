@@ -16,7 +16,7 @@ tags:
 [How to assess your negotiation style](http://negotiationplanner.com/assessing_negotiation_style.html)
 
 <br/>
-### Plan for negotiation
+### <span>Plan for negotiation</span>
 
 ##### Should I negotiate?
 * How do you feel about negotiating in this specific situation?
@@ -24,7 +24,7 @@ tags:
 * Is reward after successful negotiation worth it? (upside)
 
 <br/>
-### Types Of Negotiations
+### <span>Types Of Negotiations</span>
 
 ##### Position or interest based?
 * Traditional negotiation has been positional.
@@ -63,7 +63,7 @@ tags:
 * Third Party Processes - Litigation, Arbitration, Mediation
 * Power/Rights/Interests - Power/Litigation and Arbitration/Mediation and Negotiation
 
-### How Should I Analyse Negotiation
+### <span>How Should I Analyse Negotiation</span>
 
 <br/>
 ##### What Questions Should I Ask To Complete Analysis?
@@ -88,7 +88,7 @@ tags:
 ![Decision Tree Analysis Sample](/images/decision-tree.png)
 
 <br/>
-### Cross Cultural Negotiation
+### <span>Cross Cultural Negotiation</span>
 * Negotiation style and values and beliefs can be different.
 * Try to be sensitive to the culture but dont sterotype.
 * https://iveybusinessjournal.com/publication/negotiating-the-top-ten-ways-that-culture-can-affect-your-negotiation/
@@ -97,7 +97,7 @@ tags:
 * Be aware of important taboos or gotchas of other cultures and avoid them.
 
 <br/>
-### Ethical Issues And Standards
+### <span>Ethical Issues And Standards</span>
 * Two clusterss - legal and ethical.
 * Law based ethical standards - intersection of legal and ethical
   * Fraud
@@ -112,7 +112,7 @@ tags:
   * Golden Rule - treat others the way you will treat others.
 
 <br/>
-### Agents In Negotiations
+### <span>Agents In Negotiations</span>
 
 ##### Should you hire an agent?
 * Is the agent better negotiator?

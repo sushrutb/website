@@ -43,3 +43,8 @@ tags:
   * When we have a negative choice, a loss, we are pro risk.
 * Availability
   * We are influenced easily by information which is (easily) available.
+* Escalation
+  * Look at negotiation from other side.
+  * Competitive Arousal
+    * Causes - intense rivarly, time pressure, spotlight.
+    * Avoid - limit role of intense neogitator, managet time, spread responsibility.
