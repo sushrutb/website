@@ -47,4 +47,11 @@ tags:
   * Look at negotiation from other side.
   * Competitive Arousal
     * Causes - intense rivarly, time pressure, spotlight.
-    * Avoid - limit role of intense neogitator, managet time, spread responsibility.
+    * Avoid - limit role of intense neogitator, manage time, spread responsibility.
+* Reciprocity - helping the other side is useful.
+* Contrast Principle
+  * We compare an option with other available options, not on it own.
+  * So good idea to show some really bad options, so the option you want to sell becomes much more attractive.
+* Big picture - dont get lost in the details.
+
+![Psychological Tools Checklist](/images/psychological-tools.png)
