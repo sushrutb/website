@@ -12,6 +12,8 @@ tags:
 
 ---
 
+![Modern World - History of Last 250 years](/images/modern-world.png)
+
 ##### The great divide between traditional and modern world.
 * The rate of population growth
 * Malthusian trap
@@ -24,7 +26,7 @@ tags:
   * Human mastery over environment.
   * Identity, status.
 
-##### Traditional V Moder world.
+##### Traditional V Modern world.
 | Traditional                             | Modern                |
 | --------------------------------------- | --------------------- |
 | Natural energy like wind, animal power. | Manmade energy        |
@@ -63,3 +65,22 @@ tags:
   * France, spane, austrian, and english empires.
   * Rise of prussia.
   * Europian Atlantic empires
+
+##### Commercial revolution
+* Situation in Atlantic World
+  * Goods - sugar, coffee, silver, gold
+  * Money - silver, gold, trade
+  * Honor
+  * Knowledge/Discovery
+  * Land
+  * New markets for goods, specially luxury goods.
+  * Religous tolerance.
+* Problems/opportunities
+  * Ships
+  * Science - for navigating, manufacturing.
+  * Fiance - financing of invasions on to atlantic world.
+  * Labor - slavery
+  * Protection - professional armies and navies.
+  * Fiscal - Millitary state.
+
+![The fiscal - millitary state](/images/fiscal-millitary-state.png)
