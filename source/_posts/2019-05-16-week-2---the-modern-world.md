@@ -16,6 +16,7 @@ tags:
 ##### Diffusion of authority
 * Authority comes From
   * Knowledge
+    * Printing press help spread knowledge breaking through traditional barriers.
   * Force
   * Money
 * In traditional world authority sources were distinct.
@@ -43,3 +44,26 @@ tags:
 * Rapid inflation.
 * Weakend monarchy.
 * Nationalization of catholic church.
+
+##### French republic
+* The first republic
+  * The birth of political terror
+    * For the first time hundred were murdered for political reason.
+  * Monoism - one nation should have one voice.
+  * Commitee of public safety.
+  * A nation in arms - everyone has to choose side and fight.
+* Second republic - bourgeois republic
+  * Middle class republic, led by Napolean
+* Napolean replaces republic to a consulate.
+
+##### Democratic revolution around the world.
+* Influence of french and french revolution was spreading across Europe.
+* Aristrocracy is being challenged everywhere.
+* In America
+  * Supporter of french revolution - led by Thomas Jefferson
+  * Opposers - Federalists.
+* Tipu Sultan is influenced by French Revolution.
+* Left wing, right wing, reactionary - new political terms
+* Slave revolt in French West Indies.
+
+![Counter Revolution](/images/counter-revolutions.png)
