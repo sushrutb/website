@@ -84,3 +84,24 @@ tags:
   * Fiscal - Millitary state.
 
 ![The fiscal - millitary state](/images/fiscal-millitary-state.png)
+
+##### Millitary Revolution
+* Artillery
+* Millitary engineering - Fortifications, Navies etc
+* Professional, drilled armies.
+* Professional staff which worked in planning, supply chain to support wars.
+* Unstable Europe, leads to continuous improvement in millitary technologies.
+* Printing press.
+
+##### cultural interactions
+* What do they value?
+  * Asians more inward, Europeans more outward.
+* What do they fear?
+
+##### Struggle for India
+* Battle of plasey establishes British empire on Indian subcontinent.
+* British won war for north america.
+* Problem of colonists in North america
+  * Land restrictions
+  * Trade restrictions
+  * Taxes - Army

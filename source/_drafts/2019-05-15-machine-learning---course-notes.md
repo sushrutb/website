@@ -32,3 +32,13 @@ tags:
 #### Unsupervised learning
 * Structure of the data is unknown.
 * Used to determine structure of the data and derive features.
+
+#### Linear regression with one variable
+
+##### Cost function
+
+![Cost Function](/images/cost-function.png)
+
+##### Gradient descent
+
+##### Gradient descent for linear regression
