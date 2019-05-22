@@ -4,13 +4,15 @@ title: "Machine Learning   Course Notes"
 permalink: machine-learning---course-notes
 date: 2019-05-15 08:40:48
 comments: true
-description: "Machine Learning - Course Notes"
+description: "Week 1 - Machine Learning"
 keywords: ""
 categories:
 
 tags:
 
 ---
+
+![Machine Learning](/images/machine-learning.png)
 
 ### What is machine learning?
 >Field of study that gives computers the ability to learn without being explicitly programmed
