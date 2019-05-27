@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Week 1   Mathematical Thinking"
+permalink: week-1---mathematical-thinking
+date: 2019-05-27 09:25:59
+comments: true
+description: "Week 1 - Mathematical Thinking"
+keywords: ""
+categories:
+
+tags:
+
+---
+
+### <span>Introduction to mathematics</span>
+
+##### Mathematical language
+* Object a has property P.
+* Every object of type T has property P.
+* There is an object of type T having property P.
+* If statement A, then statement  B.
