@@ -26,3 +26,21 @@ tags:
 * The speed of - Problem->Solution->Problem quickens.
 
 ##### Modern Capitalism
+* Gold standard
+  * Starting with Britain, increasing number of countries adopted gold standard and standardized money.
+  * Money exchange rates stabilized, giving acceleration to international trade.
+  * Gold rush in South Africa, Alaska and other parts of the world.
+  * Banking institutions such as insurance, trade exchanges, bonds market became common.
+* Large corporations
+  * Assembly lines made it possible to make products, extremely cheaply with out requiring craftsmanship.
+  * Factory towns in all over United States which produced machine made products.
+  * Limited Liability companies.
+* Industrial society
+  * Universities
+  * Police
+  * Doctors
+  * Professional services - advertising, typing, marketing.
+* As a response to increasing power of large corporations, workers started unions.
+* Food Manufacturing and processing became big industry to support increasingly urban population.
+
+> World trade grew 400% from 1890 to 1910.
