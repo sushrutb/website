@@ -16,7 +16,6 @@ tags:
 
 > Game Theory - Strategic interactions between self interested people.
 
-* Self
 
 ##### TCP Backoff Algorithm
 * Implements a way for a computer to slow down rate at which it sends messages if there is a leaky bucket in the network.
