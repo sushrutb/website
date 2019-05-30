@@ -7,8 +7,11 @@ comments: true
 description: "Week 3 - The Modern World"
 keywords: ""
 categories:
-
+  - "course"
 tags:
+  - "coursera"
+  - "modern world"
+  - "learning"
 
 ---
 

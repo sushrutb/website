@@ -7,11 +7,15 @@ comments: true
 description: "Week 5 - Modern World"
 keywords: ""
 categories:
-
+  - "course"
 tags:
+  - "coursera"
+  - "modern world"
+  - "learning"
 
 ---
 
+![Modern World - History of Last 250 years](/images/modern-world.png)
 
 ### <span>Nation States</span>
 
