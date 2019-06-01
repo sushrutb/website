@@ -19,3 +19,19 @@ tags:
 * Every object of type T has property P.
 * There is an object of type T having property P.
 * If statement A, then statement  B.
+
+##### Logical combinators
+
+__AND__
+* ^ - wedge.
+* Conjunction.
+* Example: X ^ Y
+* X and Y are called conjuncts.
+
+__OR__
+* V - disjunction
+* X V Y
+
+__NOT__
+* Negation: ~ or ¬
+* Example: ¬(X)
