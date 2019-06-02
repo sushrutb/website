@@ -30,6 +30,7 @@ tags:
   * Identity, status.
 
 ##### Traditional V Modern world.
+
 | Traditional                             | Modern                |
 | --------------------------------------- | --------------------- |
 | Natural energy like wind, animal power. | Manmade energy        |
@@ -42,7 +43,7 @@ tags:
 | Local identity/culture                  | Mass identity/culture |
 | Weak kingdoms                           | Strong states.        |
 
-#### Why the great divide?
+##### Why the great divide?
 * Sudden or slow?
 * Predetermined?
 * Material or cultural?
@@ -69,6 +70,7 @@ tags:
   * Rise of prussia.
   * Europian Atlantic empires
 
+<br/>
 ##### Commercial revolution
 * Situation in Atlantic World
   * Goods - sugar, coffee, silver, gold

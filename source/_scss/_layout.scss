@@ -254,12 +254,30 @@ body.home {
 
 .post-content {
   h3 {
-    margin-bottom: 1.5em;
-
     span {
       border-bottom: 3px solid #077500;
       text-transform: capitalize;
     }
+  }
+
+  h1, h2, h3, h4, h5 {
+    text-transform: capitalize;
+  }
+
+  th {
+    font-weight: 550;
+  }
+
+  li::first-letter {
+    text-transform: capitalize;
+  }
+
+  img, h1, h2, h3, h4, h5, blockquote {
+    margin-top: 2em;
+  }
+
+  blockquote {
+    padding: 1em;
   }
 }
 
