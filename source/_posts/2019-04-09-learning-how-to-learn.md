@@ -21,10 +21,7 @@ As a first step, I am doing course - [How To Learn Learning.](https://www.course
 
 This blog will host weekly notes from the course. I will update this post to links with weekly notes.
 
-[Week 1 Notes]({{ site.baseurl }}{% post_url 2019-04-09-week-1-learning-how-to-learn %})
-
-[Week 2 Notes]({{ site.baseurl }}{% post_url 2019-04-15-week-2-learning-how-to-learn %})
-
-[Week 3 Notes]({{ site.baseurl }}{% post_url 2019-04-29-week-3-learning-how-to-learn %})
-
-[Week 4 Notes]({{ site.baseurl }}{% post_url 2019-05-02-week-4-learning-how-to-learn %})
+* [Week 1 Notes]({{ site.baseurl }}{% post_url 2019-04-09-week-1-learning-how-to-learn %})
+* [Week 2 Notes]({{ site.baseurl }}{% post_url 2019-04-15-week-2-learning-how-to-learn %})
+* [Week 3 Notes]({{ site.baseurl }}{% post_url 2019-04-29-week-3-learning-how-to-learn %})
+* [Week 4 Notes]({{ site.baseurl }}{% post_url 2019-05-02-week-4-learning-how-to-learn %})

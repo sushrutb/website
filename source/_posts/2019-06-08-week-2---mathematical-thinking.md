@@ -12,6 +12,8 @@ tags:
 
 ---
 
+![Mathematical Thinking](/images/mathematical-thinking.png)
+
 ##### Logical Implication
 * Implication involves causality.
 * Implication has a truth part and a causality part.
