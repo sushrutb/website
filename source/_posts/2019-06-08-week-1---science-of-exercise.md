@@ -12,6 +12,10 @@ tags:
 
 ---
 
+![Science Of Exercise](/images/science-of-exercise.png)
+
+### <span>Energy consumption during exercise.</span>
+
 ##### Principles in Exercise Physiology
 
 > Homeostasis - resting body condition and all internal factors such as blood sugar level, oxygen levels, ph level, core body temp.

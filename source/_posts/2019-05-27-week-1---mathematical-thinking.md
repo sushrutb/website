@@ -12,6 +12,8 @@ tags:
 
 ---
 
+![Mathematical Thinking](/images/mathematical-thinking.png)
+
 ### <span>Introduction to mathematics</span>
 
 ##### Mathematical language

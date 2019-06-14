@@ -34,3 +34,33 @@ tags:
 * Stories are more influencing than numbers.
 * Framing Bias - We are risk averse to gain, but we are risk seeking towards loss.
 * Anchoring - We are anchored to first price point.
+* Likability
+  * __Personal appearances matter.__
+  * Draw on similarities.
+  * Engage in dialogue before asking people for favors.
+* Scarcity
+  * We value things which are less available.
+  * Uniqueness, limited quantities, time constraints.
+  * Exclusive information.
+* Reciprocity
+  * Offer resources, help, collaboration.
+  * Help, help, help. In anyway you can.
+
+##### Sticky messages
+* Simple messages.
+* Unexpected.
+* Concrete.
+* Credible.
+* Emotional.
+* Stories.
+* 180-195 wpm for maximum perceived knowledge.
+
+##### Non verbal messaging
+* High power - open body pose.
+* Eye contact.
+* Mirroring behaviors.
+* Relaxed facial expression.
+* Hand gestures, specially illustrative hand gestures.
+* Firm handshake.
+
+> Engaging people after they had a meal is more successful.
