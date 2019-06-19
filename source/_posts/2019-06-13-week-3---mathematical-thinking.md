@@ -23,6 +23,7 @@ All mathematical quantifiers can be expressed in either _there exists_ or _for a
 * Denoted by symbol - __∃__
 * For example ∃x[x<sup>2</sup>+2x+1=0]
 * You can prove it by finding x which satisfies the property.
+* ∃! - There exists an unique.
 
 _Continuous function - Graph of the function does not have any breaks or joints_
 
@@ -30,3 +31,11 @@ _Continuous function - Graph of the function does not have any breaks or joints_
 * For all x it is the case that.
 * Denoted by symbol - __∀__
 * For example - ∀x(x<sup>2</sup> >= 0).
+
+
+##### How to read mathematical formulas
+
+* (∀x)[P(x) => Q(x)] : For every x, _if_ P(x) _then_ Q(x).
+* (∀x)[P(x) ^ Q(x)] : ∀xP(x) ^ ∀xQ(x) : For every x P(x) _and_ Q(x).
+* (∃x)[P(x) ^ Q(x)] : There is an x for which P(x) _and_ Q(x).
+* (∃x)[P(x) => Q(x)] : There is an for which _if_ P(x) _then_ Q(x). Rarely useful.
