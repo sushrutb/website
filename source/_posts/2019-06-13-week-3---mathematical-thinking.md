@@ -39,3 +39,8 @@ _Continuous function - Graph of the function does not have any breaks or joints_
 * (∀x)[P(x) ^ Q(x)] : ∀xP(x) ^ ∀xQ(x) : For every x P(x) _and_ Q(x).
 * (∃x)[P(x) ^ Q(x)] : There is an x for which P(x) _and_ Q(x).
 * (∃x)[P(x) => Q(x)] : There is an for which _if_ P(x) _then_ Q(x). Rarely useful.
+
+
+##### Negation of quantifiers.
+
+¬(∀x[P(x) => Q(x)]) = ∃x[P(x) !=> Q(x)] = ∃x[P(x) ^ ¬Q(x)]
