@@ -62,3 +62,31 @@ tags:
 * Men have more muscles and larger cross sectional areas.
 * _A man and a woman having same muscle mass can generate same amount of power and force._
 * Due to very large quantities of testosterone (20-30 times), amount of muscle gain in men can be much higher.
+
+##### Nutrition for training
+* How much to eat?
+  * Endurance - weight stable.
+* What to eat?
+  * Endurance
+    * Increasing carb stores.
+    * 55-60% calories from carbs.
+* When?
+  * Takes 24 hours to replenish carb stores.
+  * First 1 to 2 hours post exercise.
+  * Pre-competition meal -
+    * 2 to 3 hours prior - reduces blood requirements of digestive system and stabilizes glucose level
+    * 300-500 calories, high in carbs.
+
+##### Causes Of Muscle fatigue
+* Muscle fatigue is inability to maintain output required during exercise.
+* Common causes are located in the muscle itself.
+* For Endurance exercise
+  * Depletion of carb stores.
+  * Calcium levels
+  * Body and muscle temperature.
+
+##### Causes of muscle soreness
+
+
+##### Performance enhancing drugs
+*
