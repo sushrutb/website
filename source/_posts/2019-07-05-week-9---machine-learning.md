@@ -40,3 +40,24 @@ tags:
 | Manually create features to capture anomalies, based on given raw set of features. | Automatically captures correlations between features                                                  |
 | Computationally cheaper                                                            | Expensive to compute, does not scale well with number of features, due to calculating matrix inverse. |
 | Works even in small training set.                                                  | Number of training examples has  to be greater than number of features. Should be m > 10n             |
+
+
+### <span> Recommender systems</span>
+
+##### Applications
+* Movie, book recommendations.
+* Shopping recommendations.
+
+##### Content based recommender systems
+* Essentially a deviation of linear regression.
+* We find prediction parameters, &theta;, for each user in the system.
+* Use above parameters to predict which movies the user will like.
+* Requires availability of features based on content a movie such as degree of action, romance; which difficult to find in real world.
+
+##### Collaborative filtering
+
+![Collaborative Filtering](/images/cf-1.png)
+
+![Collaborative Filtering](/images/cf-2.png)
+
+![Collaborative Filtering](/images/cf-3.png)

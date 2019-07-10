@@ -86,7 +86,16 @@ tags:
   * Body and muscle temperature.
 
 ##### Causes of muscle soreness
-
+* During prolonged isometric contraction, blood flow to the muscle can be shut down, reducing oxygen flow.
+* This results in creating ATP anaerobically, producing acids. These acids when released into blood stream cause localized burning and pain, which subsided quickly.
+* Cramps - no clear reasons are yet established.
+  * Theory 1 - electrolyte imbalance.
+  * Theory 2 - bug in neural wiring.
+  * Can be solved using salts, fluids, massage and ice packs.
+* Muscle soreness which starts hours after the exercise is caused by eccentric contraction, when muscle is stretched.
+* These contractions causes micro tears in the muscle fibers leading to inflammation, weakness, tenderness, and pain.
+* Damaged sarcomere (muscle tissues) are replaced with healthy.
+* Subsequent exercise with same intensity with cause lesser pain.
 
 ##### Performance enhancing drugs
-*
+* Blood doping - inject your blood cells before a competition.
