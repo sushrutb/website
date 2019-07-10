@@ -29,4 +29,10 @@ _Try out the learning algorithm which much smaller sample size, and see if it su
 * If the curve is steadily decreasing, then algorithm is converging, if not adjust appropriate parameters such as learning rate.
 * You can use dynamic learning rate. Where learning rate becomes smaller and smaller as number of iterations increase.
 
+##### Online Learning
+* When new data keeps coming in. Streams of data instead of fixed training set.
+* Similar to stochastic gradient descent, just that training set is not fixed.
+
 ##### Map Reduce
+* Split data and run steps of an algorithm on separate machines.
+* Centralized server combines results.
