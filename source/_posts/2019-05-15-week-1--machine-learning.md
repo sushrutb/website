@@ -43,4 +43,8 @@ tags:
 
 ##### Gradient descent
 
+![Gradient Descent](/images/gd.png)
+
 ##### Gradient descent for linear regression
+
+![Gradient Descent For Linear Regression](/images/gd-lr.png)

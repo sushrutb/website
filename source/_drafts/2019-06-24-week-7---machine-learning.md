@@ -12,4 +12,4 @@ tags:
 
 ---
 
-##### Support Vector Machine
+##### Support Vector Machines
