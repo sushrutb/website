@@ -55,3 +55,24 @@ tags:
 * Improves antioxidants which are useful in fighting cancer.
 * Lowers body fat which can lead to cancer.
 * Reduces certain hormones which cause growth of cancer.
+* Exercise also improves quality of life for patient undergoing treatment.
+
+##### Aging
+* Successful aging relates to maintaining your health to live experience desired quality of life.
+* Stamina - regular aerobic exercise helps maintain stamina in older age.
+* Loss of muscle mass, sarcopenia, which leads to falls, fractures, loss of mobility can be reduced with regular exercise.
+* __Never too late to start exercising.__
+* Osteoporosis - Porous bones, affects lot of women. - low calcium, vitamin D.
+* Weight lifting is important activity to counter Osteoporosis.
+* If you are active in younger age, it is important to keep active, as adaptations are reversible.
+
+##### Brain
+* For healthy Brain
+  * Active social lifestyle
+  * Quality sleep
+  * Stress management
+  * Mental stimulation
+  * Healthy diet
+  * Regular exercise
+* Exercise helps with maintaining blood flow to brain, reducing risk of dementia.
+* Parkinson's disease - brain stops producing dopamine, losing control of muscle movements.
