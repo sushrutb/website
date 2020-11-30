@@ -6,8 +6,7 @@ date: 2019-05-30 09:19:45
 comments: true
 description: "Modern World - Course Notes"
 keywords: ""
-categories:
-  - "metacoursera"
+categories: ["Courses"]
 
 tags:
   - "notes"

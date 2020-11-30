@@ -5,6 +5,7 @@ highlighter : pygments
 
 plugins:
   - jekyll-paginate
+  - jekyll-archives
 
 paginate: 10
 paginate_path: "/blog/page/:num/"
@@ -32,8 +33,8 @@ disqus_site_shortname: "sushrutbidwaicom"
 # Author settings
 author:
   name      : Sushrut Bidwai
-  job       : Programmer
-  bio       : "Programmer and entrepreneur."
+  job       : Software Engineer
+  bio       : "Software engineer with experience in shipping products at scale."
   thumb     : /images/author.jpg
   email     : sb@sushrutbidwai.com
   url       : http://sushrutbidwai.com
@@ -61,3 +62,11 @@ collections:
     permalink: /book-reviews/:path/
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    tag: '/tag/:name/'
+    category: '/category/:name/'
