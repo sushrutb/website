@@ -2,6 +2,7 @@
 layout: post
 title: Prashna
 date: '2007-06-16 10:25:00'
+categories: ["poetry"]
 ---
 
 <p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp1.blogger.com/_cWdd7TsTIWo/RnO6xOoIldI/AAAAAAAAAAc/wxpDtHMi4QM/s1600-h/prashn.bmp"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp1.blogger.com/_cWdd7TsTIWo/RnO6xOoIldI/AAAAAAAAAAc/wxpDtHMi4QM/s320/prashn.bmp" border="0" alt="" id="BLOGGER_PHOTO_ID_5076606559879468498"/></a></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/5416117946427095362-6765809131044873179?l=soranthou.blogspot.com" alt=""/></div>

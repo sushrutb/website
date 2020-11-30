@@ -190,8 +190,7 @@ task :book_review do
     post.puts "tags:"
     post.puts "---"
   end
-end # task :book_review
-
+end #task book_review
 
 desc "Create a new page."
 task :page do

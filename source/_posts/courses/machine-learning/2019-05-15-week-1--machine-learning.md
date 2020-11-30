@@ -6,7 +6,7 @@ date: 2019-05-15 08:40:48
 comments: true
 description: "Week 1 - Machine Learning"
 keywords: ""
-categories:
+categories: ["courses"]
 
 tags:
 

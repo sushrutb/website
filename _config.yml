@@ -47,10 +47,6 @@ author:
 navbar:
   - slug: about
     title: About
-  # - slug: resume
-  #   title: Resume
-  # - slug: skills
-  #   title: Skills
   - slug: blog
     title: Blog
 
@@ -66,7 +62,10 @@ exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src
 jekyll-archives:
   enabled:
     - categories
-  layout: archive
+    - tags
+  layouts:
+    category: archive
+    tag: tag_archive
   permalinks:
     tag: '/tag/:name/'
     category: '/category/:name/'

@@ -17,6 +17,6 @@ date: 2019-05-10 20:19:08
 description: "Book Review: Born A Crime"
 ---
 
-It funny, it is witty, it is poigant, and it is very well written.
+It funny, it is witty, it is poignant, and it is very well written.
 
 If you ever wondered why Gandhi became an activist after living in South Africa, read this book. Indians, like me, forget that British were not just rabid people in India, they were rabid people period. Everywhere they went.

@@ -6,9 +6,7 @@ date: 2019-06-21 09:54:19
 comments: true
 description: "Week 3 - Influencing People"
 keywords: ""
-categories:
-
-tags:
+tags: ["Influencing People"]
 
 ---
 
