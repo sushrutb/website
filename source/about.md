@@ -11,17 +11,6 @@ I am Sushrut Bidwai, a software engineer by training and an entrepreneur is my p
 From March 2019 to March 2020 I am taking most of the time to reflect and rediscover myself professional and personal interest.
 
 <br/>
-##### Goals I am focused on achieving by March 2020
-
-* Able speak a new language, Italian.
-* Travel to Israel, Cambodia, and Vietnam
-* Acquire a new creative hobby.
-* Running 5km/day.
-* Travel to 10 states in India that I have not been to before.
-* Make friends with people from countries I have never been to before.
-* Acquire new technical skills - mobile app development, front end development.
-
-<br/>
 ##### Highlights Reel
 
 * Born in 1982, so not sure if I am a millennial or not.
@@ -35,6 +24,7 @@ From March 2019 to March 2020 I am taking most of the time to reflect and redisc
   * Worked with [Afterpay](https://afterpay.com) where I built fraud and credit decisioning systems for 2 billion dollar GMV payments system and help turn the company profitable.
   * Got married and then divorced.
   * Watched Kohli and Rahane hit Mitchell Johnson all over the MCG.
+* Lived in UK and Germany from 2019 to 2021.
 
 <br/>
 ##### Please do contact me if
@@ -45,8 +35,6 @@ From March 2019 to March 2020 I am taking most of the time to reflect and redisc
 <br/>
 ##### Contact
 Email: sb@sushrutbidwai.com
-Phone: +91 9373 0637 54
-WhatsApp: +91 9373 0637 54
 
 <br/>
 ###### StartupForStartups
