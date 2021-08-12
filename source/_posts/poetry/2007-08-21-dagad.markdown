@@ -3,6 +3,7 @@ layout: post
 title: Dagad
 date: '2007-08-21 11:43:00'
 categories: ["poetry"]
+tags: ["poetry"]
 ---
 
 <p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp2.blogger.com/_cWdd7TsTIWo/RsrQSgzIvKI/AAAAAAAAAEg/uDFSAkMti5I/s1600-h/dagad.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp2.blogger.com/_cWdd7TsTIWo/RsrQSgzIvKI/AAAAAAAAAEg/uDFSAkMti5I/s320/dagad.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5101118544411147426"/></a></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/5416117946427095362-7825325918045842417?l=soranthou.blogspot.com" alt=""/></div>

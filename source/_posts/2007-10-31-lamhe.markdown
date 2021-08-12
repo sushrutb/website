@@ -2,6 +2,7 @@
 layout: post
 title: Lamhe
 date: '2007-10-31 04:55:00'
+tags: ["poetry"]
 ---
 
 <p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp0.blogger.com/_cWdd7TsTIWo/RygLMITCk5I/AAAAAAAAAFA/qMUYoTvHmcQ/s1600-h/lamhe.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp0.blogger.com/_cWdd7TsTIWo/RygLMITCk5I/AAAAAAAAAFA/qMUYoTvHmcQ/s320/lamhe.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5127360478774989714"/></a></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/5416117946427095362-7149475437113599781?l=soranthou.blogspot.com" alt=""/></div>
