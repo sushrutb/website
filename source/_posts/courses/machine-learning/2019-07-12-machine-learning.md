@@ -7,9 +7,7 @@ comments: true
 description: "Machine Learning"
 keywords: ""
 categories:
-
-tags:
-
+tags: ["course"]
 ---
 ![Machine Learning](/images/machine-learning.png)
 
