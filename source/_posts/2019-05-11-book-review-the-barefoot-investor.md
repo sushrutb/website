@@ -11,6 +11,7 @@ cover: "barefoot-investor.jpg"
 stars: "5"
 book-link: "https://www.amazon.in/Barefoot-Investor-Money-Guide-Youll/dp/B07212R5DL"
 tags:
+  - book-review
 ---
 
 This is the most important book that I read in 2018. It is targeted towards Australians, but the basic ideas are applicable everywhere. Here is a summary of ideas from the book.

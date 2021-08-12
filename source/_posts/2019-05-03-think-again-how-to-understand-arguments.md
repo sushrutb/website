@@ -7,10 +7,7 @@ comments: true
 description: "Think Again: How to understand arguments"
 keywords: ""
 categories: coursera
-
-tags:
-  - learning
-  - arguments
+tags: ["course"]
 
 ---
 ![Think Again: How To Understand Arguments](/images/think-again.png)

@@ -7,11 +7,7 @@ comments: true
 description: "Learning How to Learn"
 keywords: ""
 categories: ["coursera"]
-
-tags:
-  - notes
-  - learning
-
+tags: ["course"]
 ---
 ![How To Learn Learning](/images/how-to-learn-learning.png)
 

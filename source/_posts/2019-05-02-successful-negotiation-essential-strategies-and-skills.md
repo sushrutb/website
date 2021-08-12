@@ -7,8 +7,7 @@ comments: true
 description: "Successful Negotiation: Essential Strategies And Skills"
 keywords: ""
 categories: "coursera"
-tags:
-  - "negotiations"
+tags: ["course"]
 
 ---
 

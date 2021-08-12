@@ -10,6 +10,7 @@ stars: 4
 categories: book-review
 tags:
   - biography
+  - book-review
 book-link: https://www.amazon.in/Undoing-Project-Michael-Lewis/dp/0241254736/
 cover: undoing-project.jpg
 

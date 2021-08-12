@@ -7,11 +7,7 @@ comments: true
 description: "Modern World - Course Notes"
 keywords: ""
 categories: ["Courses"]
-
-tags:
-  - "notes"
-  - "coursera"
-  - "modern world"
+tags: ["course"]
 ---
 
 ![Modern World - History of Last 250 years](/images/modern-world.png)
