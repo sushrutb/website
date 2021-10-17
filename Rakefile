@@ -150,6 +150,73 @@ task :draft do
   end
 end # task :draft
 
+desc "Create a new course notes posts."
+task :course do
+  abort("rake aborted: '#{CONFIG['drafts']}' directory not found.") unless FileTest.directory?(CONFIG['drafts'])
+  title = ENV["title"] || "New course"
+  image = ENV["image"] || "New image"
+  tags = ["course"]
+  description = title
+  env_cat = ENV["category"] || ""
+  categories = strtag(env_cat)
+
+  slug = mount_slug(title)
+  begin
+    date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
+    time = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%T')
+  rescue => e
+    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
+    exit -1
+  end
+
+  weeks = Integer(ENV["weeks"])
+  puts "Number of weeks=#{weeks}"
+  posts = Array.new
+  i = 1
+
+  while i < weeks+1 do
+    post_title = "Week #{i} - #{title}"
+    post_slug = mount_slug(post_title)
+    post_filename = File.join(CONFIG['drafts'], "#{date}-#{post_slug}.#{CONFIG['post_ext']}")
+    post_filename_without_type = File.join(CONFIG['drafts'], "#{date}-#{post_slug}")
+    posts.push({'title' => post_title, 'slug' => post_slug, 'filename' => post_filename, 'filename_without_type' => post_filename_without_type})
+    i = i + 1
+  end
+
+
+  filename = File.join(CONFIG['drafts'], "#{date}-#{slug}.#{CONFIG['post_ext']}")
+  # if File.exist?(filename)
+  #   abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  # end
+
+  puts "Creating new post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "permalink: #{slug}"
+    post.puts "date: #{date} #{time}"
+    post.puts "comments: true"
+    post.puts "description: \"#{title}\""
+    post.puts 'keywords: ""'
+    post.puts "categories:"
+    post.puts "#{categories}"
+    post.puts "tags:"
+    post.puts "#{tags}"
+    post.puts "---"
+    post.puts "![#{title}](/images/#{image})"
+    post.puts "This blog will host weekly notes from the course."
+    j = 1
+    while j < weeks+1 do
+      week_post = posts[j-1]
+      puts "#{week_post}"
+      post.puts "* [Week #{j} Notes]({{ site.baseurl }}{% post_url #{week_post['filename_without_type']} %})"
+      j = j + 1
+    end
+  end
+end # task :course
+
+
 desc "Begin a new book review in #{CONFIG['drafts']}"
 task :book_review do
   abort("rake aborted: '#{CONFIG['drafts']}' directory not found.") unless FileTest.directory?(CONFIG['drafts'])
@@ -191,6 +258,7 @@ task :book_review do
     post.puts "---"
   end
 end #task book_review
+
 
 desc "Create a new page."
 task :page do
