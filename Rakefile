@@ -177,17 +177,19 @@ task :course do
   while i < weeks+1 do
     post_title = "Week #{i} - #{title}"
     post_slug = mount_slug(post_title)
-    post_filename = File.join(CONFIG['drafts'], "#{date}-#{post_slug}.#{CONFIG['post_ext']}")
-    post_filename_without_type = File.join(CONFIG['drafts'], "#{date}-#{post_slug}")
-    posts.push({'title' => post_title, 'slug' => post_slug, 'filename' => post_filename, 'filename_without_type' => post_filename_without_type})
+    post_filename = "#{date}-#{post_slug}"
+    post_path = File.join(CONFIG['drafts'], "#{date}-#{post_slug}.#{CONFIG['post_ext']}")
+    posts.push({
+      'title' => post_title,
+      'slug' => post_slug,
+      'filename' => post_filename,
+      'path' => post_path
+      })
     i = i + 1
   end
 
 
   filename = File.join(CONFIG['drafts'], "#{date}-#{slug}.#{CONFIG['post_ext']}")
-  # if File.exist?(filename)
-  #   abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
-  # end
 
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
@@ -210,8 +212,30 @@ task :course do
     while j < weeks+1 do
       week_post = posts[j-1]
       puts "#{week_post}"
-      post.puts "* [Week #{j} Notes]({{ site.baseurl }}{% post_url #{week_post['filename_without_type']} %})"
+      post.puts "* [Week #{j} Notes]({{ site.baseurl }}{% post_url #{week_post['filename']} %})"
       j = j + 1
+    end
+  end
+  k = 1
+  while k < weeks+1 do
+    week_post = posts[k-1]
+    puts "Creating new post: #{week_post['path']}"
+    k = k + 1
+    open(week_post['path'], 'w') do |post|
+      post.puts "---"
+      post.puts "layout: post"
+      post.puts "title: \"#{week_post['title'].gsub(/-/,' ')}\""
+      post.puts "permalink: #{week_post['slug']}"
+      post.puts "date: #{date} #{time}"
+      post.puts "comments: true"
+      post.puts "description: \"#{week_post['title']}\""
+      post.puts 'keywords: ""'
+      post.puts "categories:"
+      post.puts "#{categories}"
+      post.puts "tags:"
+      post.puts "#{tags}"
+      post.puts "---"
+      post.puts "![#{title}](/images/#{image})"
     end
   end
 end # task :course
