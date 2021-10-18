@@ -12,3 +12,11 @@ tags:
 ["course"]
 ---
 ![Principles of Economics - Microeconomics](/images/microeconomics-course.png)
+
+### Elasticity
+
+> A demand curve is elastic when an increase in price reduces the quantity demanded by a lot. (and vice versa). Flatter curve.
+
+> A demand curve is inelastic when an increase in price reduced the quantity demanded by very little. Steeper slope.
+
+#### Determinants of elasticity
