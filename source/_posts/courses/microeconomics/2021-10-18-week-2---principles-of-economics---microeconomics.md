@@ -7,10 +7,10 @@ comments: true
 description: "Week 2 - Principles of Economics - Microeconomics"
 keywords: ""
 categories:
-
 tags:
-["course"]
+
 ---
+
 ![Principles of Economics - Microeconomics](/images/microeconomics-course.png)
 
 ### Elasticity
