@@ -97,3 +97,5 @@ Possible reasons
 > Free market maximizes gain from trade at equilibrium quantity and prices.
 
 Does equilibrium work? Absolutely yes!
+
+![Supply, demand, and equilibrium](/images/demand-supply-equilibrium.png)

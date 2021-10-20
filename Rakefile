@@ -201,11 +201,10 @@ task :course do
     post.puts "comments: true"
     post.puts "description: \"#{title}\""
     post.puts 'keywords: ""'
-    post.puts "categories:"
-    post.puts "#{categories}"
-    post.puts "tags:"
-    post.puts "#{tags}"
+    post.puts "categories:#{categories}"
+    post.puts "tags:#{tags}"
     post.puts "---"
+    post.puts ""
     post.puts "![#{title}](/images/#{image})"
     post.puts "This blog will host weekly notes from the course."
     j = 1
@@ -230,11 +229,10 @@ task :course do
       post.puts "comments: true"
       post.puts "description: \"#{week_post['title']}\""
       post.puts 'keywords: ""'
-      post.puts "categories:"
-      post.puts "#{categories}"
+      post.puts "categories:#{categories}"
       post.puts "tags:"
-      post.puts "#{tags}"
       post.puts "---"
+      post.puts ""
       post.puts "![#{title}](/images/#{image})"
     end
   end
