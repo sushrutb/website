@@ -42,24 +42,24 @@ tags:
 
 elasticity of demand = the % change in quantity demanded / % change in price.
 
-> E<sup>D = %∆Q<sup>demanded / %∆Price
+> E<sub>D = %∆Q<sub>demanded / %∆Price
 
 Example
 Oil price increased by 10%, quantity demanded dropped by 5%, so
-E<sup>D(Oil) = -5/10 = -0.5
+E<sub>D(Oil) = -5/10 = -0.5
 
-| Absolute value of E<sup>D | Elasticity     |
+| Absolute value of E<sub>D | Elasticity     |
 | ------------------------- | -------------- |
-| E<sup>D < 1               | More inelastic |
-| E<sup>D > 1               | More elastic   |
-| E<sup>D = 1               | Unit elastic.  |
+| E<sub>D < 1               | More inelastic |
+| E<sub>D > 1               | More elastic   |
+| E<sub>D = 1               | Unit elastic.  |
 
 ##### Midpoint formula
 To erase base point bias, we use following modified formula.
 
-E<sup>D = %∆Q/%∆P = ((∆Q/Avg. Q) * 100)/((∆P/Avg. P) * 100)
-                  = ((Q<sup>after - Q<sup>before)/((Q<sup>after + Q<sup>before)/2))/
-                  ((P<sup>after - P<sup>before)/((P<sup>after + P<sup>before)/2))
+E<sub>D = %∆Q/%∆P = ((∆Q/Avg. Q) * 100)/((∆P/Avg. P) * 100)
+                  = ((Q<sub>after - Q<sub>before)/((Q<sub>after + Q<sub>before)/2))/
+                  ((P<sub>after - P<sub>before)/((P<sub>after + P<sub>before)/2))
 
 ###### Revenue
 
@@ -95,7 +95,7 @@ Inelastic supply curve means quantity supplied does not vary much with price.
 
 Elasticity of supply == the % change in supply / the % change in price.
 
-E<sup>S is generally positive. Whereas E<sup>D is negative. Otherwise similar math.
+E<sub>S is generally positive. Whereas E<sub>D is negative. Otherwise similar math.
 
 
 #### Slavery
