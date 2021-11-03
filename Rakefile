@@ -150,7 +150,7 @@ task :draft do
   end
 end # task :draft
 
-desc "Create a new course notes posts."
+desc "Create a new course notes posts. It will create main post and posts for each week."
 task :course do
   abort("rake aborted: '#{CONFIG['drafts']}' directory not found.") unless FileTest.directory?(CONFIG['drafts'])
   title = ENV["title"] || "New course"
@@ -170,7 +170,6 @@ task :course do
   end
 
   weeks = Integer(ENV["weeks"])
-  puts "Number of weeks=#{weeks}"
   posts = Array.new
   i = 1
 
