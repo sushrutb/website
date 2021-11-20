@@ -27,10 +27,10 @@ Why is it good?
 
 * Increases combined world knowledge.
 
-> Comparitive Advantage - The more different we are from each other, the more we benefit from trade.
+> Comparative Advantage - The more different we are from each other, the more we benefit from trade.
 
 
-![Comparitive Advantage](/images/comparitive-advantage.png)
+![Comparative Advantage](/images/comparitive-advantage.png)
 
 ##### Opportunity cost
 
@@ -41,12 +41,12 @@ Why is it good?
 ##### Summary
 
 * In two country/person examples, trade makes everyone better off, but in larger examples some may be worse off.
-* Comparitive advantage applies to groups and invidividuals.
+* Comparative advantage applies to groups and individuals.
 * Diversity is a strength when combined with trade.
 
 ### Tariffs and Protectionism
 
-> Protectionism - economic policy of restraining trade through tariffs, quotas, or other regulations that burden foreign producer but not dometic.
+> Protectionism - economic policy of restraining trade through tariffs, quotas, or other regulations that burden foreign producer but not domestic.
 
 Tariff - tax on import.
 Quota - Quantity restriction of import.
