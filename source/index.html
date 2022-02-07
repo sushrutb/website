@@ -11,11 +11,13 @@ layout: home
     <h3>I'm <strong itemprop="name">{{ site.author.name }}</strong>, a <em itemprop="jobTitle">{{ site.author.job }}</em>.</h3>
     <h3>{{ site.author.bio }}</h3>
 
+    <a href="{{ '/about/' | prepend: site.baseurl }}" class="btn btn-ghost">About</a>
     <a href="{{ '/blog/' | prepend: site.baseurl }}" class="btn btn-ghost">Blog</a>
     <a href="{{ '/book-reviews/' | prepend: site.baseurl }}" class="btn btn-ghost">Book Reviews</a>
     <a href="{{ '/tag/poetry' | prepend: site.baseurl }}" class="btn btn-ghost">Poetry</a>
     <a href="{{ '/tag/course/' | prepend: site.baseurl }}" class="btn btn-ghost">Course Notes</a>
-    {% include social.html %}
+    <a href="{{ '/threads/' | prepend: site.baseurl }}" class="btn btn-ghost">Threads</a>
+    <!-- {% include social.html %} -->
 
   </div>
 

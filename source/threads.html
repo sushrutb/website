@@ -1,0 +1,19 @@
+---
+layout: default
+title: Startup Threads
+permalink: /threads/
+excerpt: "Intersting threads from twitter."
+---
+
+<div class="home">
+  <div class="posts">
+
+    {% for thread in site.threads %}
+      <blockquote class="twitter-tweet">
+        <a href="https://twitter.com/x/status/{{ thread.status_id }}" />
+      </blockquote>
+    {% endfor %}
+
+  </div>
+ </div>
+ <script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
