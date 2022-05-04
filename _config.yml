@@ -21,12 +21,12 @@ sass:
 title: Sushrut Bidwai
 description: "Personal website of Sushrut Bidwai"
 keywords: "sushrut bidwai"
-url: http://sushrutbidwai.com
+url: https://sushrutbidwai.com
 baseurl: ""
 # baseurl: ""
 
 google_analytics: UA-7224484-2
-repo: http://github.com/sushrutb/sushrutb.github.io
+repo: https://github.com/sushrutb/sushrutb.github.io
 disqus_shortname: "sushrutbidwai"
 disqus_site_shortname: "sushrutbidwaicom"
 
