@@ -57,7 +57,7 @@ ATP is produced by
 
 ##### carbohydrate metabolism during exercise
 * Carbohydrates are stored in muscle(majority) and liver and blood(very small) as a form of glucose molecules - glycogen.
-* Amount of stored in body is 50 times more than carbohydrates.
+* Amount of fat stored in body is 50 times more than carbohydrates.
 * During an exercise body starts burning fat for energy, but as exercise continues, it switches over to using carbohydrates.
 * Carbohydrates stored in muscle provide fuel for exercise and contribute to producing ATP required for exercise.
 * Exercise extracts glucose from blood, causing blood sugar level to drop, possible hypoglycemia.
