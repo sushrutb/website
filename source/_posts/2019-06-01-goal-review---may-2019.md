@@ -46,7 +46,7 @@ Have had minor success over coursera forums, but nothing more beyond that.
 
 ###### Acquire new (technical) skills, learn new things.
 
-Continue to make progress in this. I will release couple of side projects later in the year utilising these skills. I completed two courses - [How to negotiate]({{ site.baseurl }}{% post_url 2019-05-02-successful-negotiation-essential-strategies-and-skills %}) and [How to understand arguments]({ { site.baseurl}} {% post_url 2019-05-03-think-again-how-to-understand-arguments %}). I also did complete a course on [Modern History]({{ site.baseurl}} ).
+Continue to make progress in this. I will release couple of side projects later in the year utilising these skills. I completed two courses - [How to negotiate]({{ site.baseurl }}{% post_url 2019-05-02-successful-negotiation-essential-strategies-and-skills %}) and [How to understand arguments]({{ site.baseurl}} {% post_url 2019-05-03-think-again-how-to-understand-arguments %}). I also did complete a course on [Modern History]({{ site.baseurl}} {% post_url 2019-05-15-week-1---the-modern-world %}).
 
 
 >Sabbatical from work is not going all that well. Acquired two new clients, one project for an old client, and have three more in the pipeline.

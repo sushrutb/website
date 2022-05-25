@@ -2,7 +2,7 @@
 layout: post
 title: "Modern World"
 permalink: modern-world
-date: 2019-07-12 10:22:36
+date: 2019-07-12
 comments: true
 description: "Modern World - Course Notes"
 keywords: ""
