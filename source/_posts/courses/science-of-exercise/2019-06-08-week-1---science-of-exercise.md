@@ -40,7 +40,7 @@ __Individuality__ - Magnitude of adaption body goes through after regular exerci
 * As body adapts with regular exercise, it causes max value for VO<sub>2</sub> to increase permanently.
 * Leading to permanent benefits to cardio vascular systems.
 
-> Respiratory exchange ration - amount of CO<sub>2</sup> produced compared to oxygen consumed during exercise. Indicates which fuels - fat(0.7) or carbohydrate(1.0) - used during exercise.
+> Respiratory exchange ration - amount of CO<sub>2</sub> produced compared to oxygen consumed during exercise. Indicates which fuels - fat(0.7) or carbohydrate(1.0) - used during exercise.
 
 ##### Energy requirements
 
