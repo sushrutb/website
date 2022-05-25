@@ -2,7 +2,7 @@
 layout: post
 title: "Week 2   Machine Learning"
 permalink: week-2---machine-learning
-date: 2019-05-20 21:02:14
+date: 2019-05-20
 comments: true
 description: "Week 2 - Machine Learning"
 keywords: ""

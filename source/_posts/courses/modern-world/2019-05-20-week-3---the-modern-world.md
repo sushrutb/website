@@ -2,7 +2,7 @@
 layout: post
 title: "Week 3   The Modern World"
 permalink: week-3---the-modern-world
-date: 2019-05-20 19:53:14
+date: 2019-05-20
 comments: true
 description: "Week 3 - The Modern World"
 keywords: ""

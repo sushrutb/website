@@ -2,7 +2,7 @@
 layout: post
 title: "Week 2   The Modern World"
 permalink: week-2---the-modern-world
-date: 2019-05-16 19:37:30
+date: 2019-05-16
 comments: true
 description: "Week 2 - The Modern World"
 keywords: ""
@@ -14,6 +14,7 @@ tags:
   - "learning"
 
 ---
+
 ![Modern World - History of Last 250 years](/images/modern-world.png)
 
 ##### Diffusion of authority
