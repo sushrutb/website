@@ -53,14 +53,14 @@ Email: sb@sushrutbidwai.com
 
 ###### StartupForStartups
 
-First business I built was StartupForStartups, which worked with handful of startups from across the world. Most successful of these are [BriteBill](https://www.britebill.com/) acquired by Amdocs for more than $100MM, and [M2Wealth](https://m2wealth.com) which is going strong.
+First business I built was StartupForStartups, which worked with handful of startups from across the world. Grew to 12 startups, 60+ team members. Exited.
 
 <br/>
 ###### Prolinkd
 
 Prolinkd was a sales automation tool which provided autmation of upsell and cross sell paths for large B2B enterprises. It used social data to capture business lifecycle signals and used those signals to advise sales teams.
 The product was used by some of the biggest names in IT, advertising, software services, telecom companies.
-Eventually product was shut down due to changing market conditions in utilizing third party social data.
+Eventually product was shut down due to changing market conditions in utilizing third party data.
 
 <br/>
 ###### Wisebuy
