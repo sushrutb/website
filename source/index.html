@@ -8,15 +8,21 @@ layout: home
 
     <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot">
     <h1>Namaste!</h1>
-    <h3>I'm <strong itemprop="name">{{ site.author.name }}</strong>, a <em itemprop="jobTitle">{{ site.author.job }}</em>.</h3>
-    <h3>{{ site.author.bio }}</h3>
+    <h3 style="text-decoration: none !important;">I'm <strong itemprop="name">{{ site.author.name }}</strong>.</h3>
+    <h3 style="text-decoration: none !important;">{{ site.author.bio }}</h3>
+    <h4 style="text-decoration: none !important;">{{ site.author.bio2 }}</h4>
 
-    <a href="{{ '/about/' | prepend: site.baseurl }}" class="btn btn-ghost">About</a>
-    <a href="{{ '/blog/' | prepend: site.baseurl }}" class="btn btn-ghost">Blog</a>
-    <a href="{{ '/goa-rents/' | prepend: site.baseurl }}" class="btn btn-ghost">Goa Rent</a>
-    <a href="{{ '/book-reviews/' | prepend: site.baseurl }}" class="btn btn-ghost">Book Reviews</a>
-    <a href="{{ '/tag/poetry' | prepend: site.baseurl }}" class="btn btn-ghost">Poetry</a>
-    <a href="{{ '/tag/course/' | prepend: site.baseurl }}" class="btn btn-ghost">Course Notes</a>
+    <a href="{{ '/about/' | prepend: site.baseurl }}" class="main_link">About</a>
+    <span class="main_link_separator">|</span>
+    <a href="{{ '/blog/' | prepend: site.baseurl }}" class="main_link">Blog</a>
+    <span class="main_link_separator">|</span>
+    <a href="{{ '/goa-rents/' | prepend: site.baseurl }}" class="main_link">Goa Rent</a>
+    <span class="main_link_separator">|</span>
+    <a href="{{ '/book-reviews/' | prepend: site.baseurl }}" class="main_link">Book Reviews</a>
+    <span class="main_link_separator">|</span>
+    <a href="{{ '/tag/poetry' | prepend: site.baseurl }}" class="main_link">Poetry</a>
+    <span class="main_link_separator">|</span>
+    <a href="{{ '/tag/course/' | prepend: site.baseurl }}" class="main_link">Course Notes</a>
     <!-- <a href="{{ '/threads/' | prepend: site.baseurl }}" class="btn btn-ghost">Threads</a> -->
     <!-- {% include social.html %} -->
 

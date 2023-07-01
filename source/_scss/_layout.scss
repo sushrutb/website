@@ -79,6 +79,29 @@ body {
   }
 }
 
+.main_link {
+  color: $base-font-color;
+  font-size: rem(20);
+  font-family: $heading-font-family;
+  line-height: $heading-line-height;
+  font-weight: $font-weight-bold;
+  margin: 0.5rem;
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-color: $text-decoration-color;
+  }
+}
+
+.main_link_separator {
+  color: $base-font-color;
+  font-size: rem(20);
+  font-family: $heading-font-family;
+  line-height: $heading-line-height;
+  font-weight: $font-weight-bold;  
+}
+
 .sliding-panel-button {
   float: right;
   @extend .btn;
@@ -222,7 +245,17 @@ body.home {
 
   }
 
-  h3, em {
+  h4 {
+    font-size: rem(18);
+    margin: .8em 0 1.2em;
+
+    @include media($tablet-up) {
+      font-size: rem(22);
+    }
+
+  }
+
+  h3, h4, em {
     font-weight: $font-weight-light;
   }
 

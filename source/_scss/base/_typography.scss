@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Lato';
+  src: url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+}
+
 body {
   color: $base-font-color;
   font-family: $base-font-family;
@@ -30,15 +35,24 @@ h2 {
 
 h3 {
   font-size: rem(24);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-color: $text-decoration-color;
 }
 
 h4 {
   font-size: rem(20);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-color: $text-decoration-color;
 }
 
 h5,
 h6 {
   font-size: rem(16);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-color: $text-decoration-color;
 }
 
 p {

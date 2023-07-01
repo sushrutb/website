@@ -5,6 +5,7 @@ ol {
   list-style-position: inside;
   padding-left: 25px;
   list-style: initial;
+  font-weight: $font-weight-light;
 
   &%default-ul {
     list-style-type: disc;
