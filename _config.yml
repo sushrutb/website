@@ -7,7 +7,7 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
 
-paginate: 10
+paginate: 50
 paginate_path: "/blog/page/:num/"
 comments: true
 
@@ -23,7 +23,7 @@ description: "Personal website of Sushrut Bidwai"
 keywords: "sushrut bidwai"
 url: https://sushrutbidwai.com
 baseurl: ""
-# baseurl: ""
+
 
 google_analytics: UA-7224484-2
 repo: https://github.com/sushrutb/sushrutb.github.io
