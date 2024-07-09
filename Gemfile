@@ -5,7 +5,7 @@ source 'http://rubygems.org'
 group :development do
   gem 'rake', '~> 12.3.3'
   gem 'sass', '~> 3.4.10'
-  gem 'jekyll', '~> 4.1.1'
+  gem 'jekyll', '~> 4.3.3'
   gem 'jekyll-paginate'
   gem 'jekyll-archives'
 end
