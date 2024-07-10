@@ -22,7 +22,7 @@ However, let's explore how we can use this theorem metaphorically to make import
 
 ### Applying CAP Theorem to Choosing a Place to Live
 
-Imagine you're deciding where to live. What are the most critical factors influencing your decision? For me, these are location, features, and budget.
+Imagine you're deciding where to live. What are the three[^1] most critical factors influencing your decision? For me, these are location, features, and budget.
 
 - **Location**: Where it is situated and what it offers in terms of amenities, community, and surroundings.
 - **Features**: The specifics of the home or apartment, including size, amenities, security, noise levels, etc.
@@ -32,7 +32,8 @@ Imagine you're deciding where to live. What are the most critical factors influe
 
 #### Step 1: Prioritize Your Key Attributes
 
-Identify the two attributes that are most crucial to you and determine which one you can afford to compromise on, if necessary. For me, location and features are paramount, while budget is flexible.
+Identify the two attributes that are most crucial to you and determine which one you can afford to compromise on, if necessary. 
+For me, location and features are paramount, while budget is flexible.
 
 #### Step 2: Refine Your Priorities
 
@@ -65,5 +66,3 @@ This approach can be applied to various significant decisions in life:
 ##### Footnotes
 
 [^1]: The number of attributes doesn't have to be three, but it should be kept minimal to prioritize effectively.
-[^2]: Examples include proximity to work, community spaces, shops, markets, and schools.
-[^3]: Assess whether the neighborhood fosters opportunities to meet interesting people and form communities.
