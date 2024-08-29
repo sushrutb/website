@@ -23,6 +23,11 @@ description: "Personal website of Sushrut Bidwai"
 keywords: "sushrut bidwai"
 url: https://sushrutbidwai.com
 baseurl: ""
+email:              sb@sushrutbidwai.com
+author:             Sushrut Bidwai
+logo:               "/images/author.jpg"
+
+
 
 
 google_analytics: UA-7224484-2
@@ -40,9 +45,20 @@ author:
   email     : sb@sushrutbidwai.com
   url       : http://sushrutbidwai.com
   github    : http://github.com/sushrutb
-  twitter   : http://twitter.com/IamSB
-  facebook  : http://facebook.com/sushrut.bidwai
-  linkedin  : https://au.linkedin.com/in/sushrutbidwai
+  twitter   : http://twitter.com/sushrut_bidwai
+  linkedin  : https://www.linkedin.com/in/sushrut-bidwai/
+
+twitter:
+  username: sushrut_bidwai
+  card: summary
+
+social:
+  name: Sushrut Bidwai
+  links:
+    - https://twitter.com/sushrut_bidwai
+    - https://sushrutbidwai.com
+    - https://www.linkedin.com/in/sushrut-bidwai/
+
 
 # navbar pages
 navbar:

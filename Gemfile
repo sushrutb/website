@@ -8,4 +8,5 @@ group :development do
   gem 'jekyll', '~> 4.3.3'
   gem 'jekyll-paginate'
   gem 'jekyll-archives'
+  gem 'jekyll-seo-tag'
 end
