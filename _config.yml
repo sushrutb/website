@@ -6,7 +6,8 @@ highlighter : pygments
 plugins:
   - jekyll-paginate
   - jekyll-archives
-
+  - jekyll-seo-tag
+  
 paginate: 50
 paginate_path: "/blog/page/:num/"
 comments: true
