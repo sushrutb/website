@@ -11,97 +11,82 @@ categories:
 tags:
 
 ---
+# Mastering Written Communication: A Guide for Young People
 
-Many young people tend to fail at written communication and here is an attempt to provide some tips.
+Many young people struggle with written communication. This guide aims to provide valuable tips for improving your communication skills in both personal and professional contexts.
 
 > Good communication clearly conveys intent, content, and desired outcome.
 
+When crafting any written message, try to build empathy for the person reading your text, email, or message. This mindset will help you communicate more effectively.
 
-In your personal or professional life try to build a bit of empathy for other person, who is reading your text/email/message.
+## Understanding and Conveying Intent
 
-## Intent
+### The Importance of Clear Intent
 
-A typical interaction when person 1 (P1) is trying to arrange a date with P2 looks like this.
+Consider this typical interaction where Person 1 (P1) is trying to arrange a date with Person 2 (P2):
 
 ```
-P1: Hey, it has been nice interacting with you online, shall we get together for a coffee this weekend?
+P1: Hey, it's been nice interacting with you online. Shall we get together for coffee this weekend?
 P2: Nah, I have a busy weekend ahead.
 ```
 
-Nothing wrong with not having free time, however, in this communication main intent P1 was looking for is not exact time when P2 is free, but whether they are interested in escalating their *relationship* from online to offline. Also, please remember a yes means yes and anything else essentially means no. If you are looking for people who will persist after a *non-yes* [^1], you might be dating in the wrong century.
+While there's nothing inherently wrong with P2's response, it fails to address P1's main intent: determining if P2 is interested in escalating their relationship from online to offline.
 
-Better way to convey your intent clearly like this.
+### A Better Approach
+
+Here's a more effective way to convey intent clearly:
 
 ```
-P2: Hey, I would love to catch up for a coffee, however this weekend this quite busy. I am free on Saturday week, if that works?
+P2: Hey, I'd love to catch up for coffee! This weekend is quite busy, but I'm free next Saturday if that works for you?
 ```
 
-You are clearly letting someone know you are interested in them, that you understand how to manage your schedule a little ahead of time.
+This response clearly communicates interest while also managing expectations and demonstrating schedule management skills.
 
-This is not just useful in dating, but all inter-personal relationships that are new, where two people do not know each other that well.
+> Remember: In modern dating, a clear "yes" means yes, and anything else essentially means no.
 
-> Do not put all burden an emotional labor of scheduling or communiting intent
+## Effective Scheduling
 
+As an adult, you should be capable of managing your schedule at least two weeks in advance. Here are some tips:
 
-## Scheduling
+1. Use a calendar system that integrates well with your email.
+2. Set up automated vacation responders when you're away.
+3. Add all appointments, including personal ones, to your calendar.
+4. Use intentful language when setting up meetings.
+5. Be specific with your availability. Instead of "Let me know if you're in town on the 18th, maybe we can meet up," try "If you're in town on the 18th, I'm free in the morning for a catch-up."
 
+## Handling Last-Minute Cancellations
 
-> As an adult you should be capable of managing your schedule, at least 2 weeks in advance, if not more.
+Life happens, and sometimes last-minute cancellations are unavoidable. When they occur:
 
+1. Communicate as soon as possible: "I'm sorry, something unforeseen has come up. Can we reschedule? Here are a few times that work for me."
+2. If the other person is traveling to meet you, try to cancel before they're supposed to leave.
+3. If you miss a meeting entirely, don't ghost. Instead, say: "I dropped the ball on our scheduled appointment. I'm extremely sorry. Can we please reschedule? Let me know your availability, and I'll accommodate it."
+4. Use considerate language. Say "unforeseen circumstances" rather than "something more important came up."
+5. For a busy day, cancel early (preferably the night before) rather than at the last minute.
 
+## Managing Deadlines
 
-#### Tips
+Most people understand that deadlines are not urgent. The push for urgency usually stems from a lack of trust in a new or unreliable relationship.
 
-1. Use any free/paid calendar system that works well with your email.
-2. Ensure you setup automated vacation responder when you go on a leave.
-3. Add all appointments, including personal, to your calendar.
-4. If you are trying to setup a meeting, use intentful language. 
-5. Instead of, "hey, let me know if you are going to in town on 18th, maybe we can meetup", try "hey, if you are in town 18th, I am free in the morning for a catch."
+> If you consistently do what you say you'll do by the agreed-upon time, most people won't bother you about deadlines.
 
+Tips for deadline management:
 
+1. Set realistic targets for yourself to build trust.
+2. Communicate proactively if you're going to miss a deadline.
+3. Provide updates without being prompted.
+4. When starting a new professional relationship, clearly communicate your approach to deadlines and scheduling.
 
-## Last minute cancellations
+## Choosing the Right Communication Channels
 
-Everyone needs to cancel meetings at the last minute once in a while. Important things come, shit happens. I get it.
+> Every person has a preferred communication channel. Find out what it is and stick to it.
 
-When this happens, please do communicate with your *date* [^1], as soon as you can.
+For example, some people dislike unscheduled phone calls due to anxiety. If someone has communicated their preferred method (e.g., email or text), respect that choice for non-urgent matters.
 
+Using multiple text-based mediums (emails, WhatsApp, SMS) can make it difficult to organize information and increase the chances of missing something important.
 
-#### Tips
+## Conclusion
 
-1. For last minute cancellations - Hey sorry, something unforeseen has come up, is it at all possible for us to reschedule for another time, here are few times that work for me.
-2. If they are traveling to meet you, please try and cancel before they are supposed to leave.
-3. If you missed a meeting altogether, do no ghost people after that, instead - "Hey, I dropped the ball on our scheduled appointment, extremely sorry. I do want to have a chat with you, can we please schedule another meeting? Let me know your schedule and I will make sure to accommodate it."
-4. Do not use condescending language such as something more important came up. Unforeseen is much better.
-5. Do not ask for last minute cancellation because your day has been slammed. If that is going to be the case, ask for a cancellation first thing in the morning, or even better evening before. It shows that you can think ahead and plan your day well and are respectful of other persons schedule as well.
+Effective written communication is a crucial skill in both personal and professional settings. By focusing on clear intent, proper scheduling, respectful cancellations, deadline management, and appropriate channel selection, you can significantly improve your communication skills and build stronger relationships.
 
-
-## Deadlines
-
-Most people understand that deadlines are generally not urgent. The push for urgency is usually from lack of trust with other person. Either they have been impirically flaky or the relationship is new.
-
-> If you do what you were going to do and by the time you said you were going to do it, most people will not bother you about deadlines.
-
-#### Tips
-1. Do not set aggressive targets for yourself. Your job is to build trust with other person.
-2. If you going to miss a deadline, let other person.
-3. People should never have to send you messages asking for an update. If they constantly have to, they will either never pay you well or find a different person.
-4. When starting a new relationship, send a note about how you communicate about deadlines and scheduling work. Set clear expectations from the other person as well.
-
-
-## Channels
-
-> Every person has a favorite communication channel, try to find that out and stick to it.
-
-I personally hate getting unscheduled phone calls. It triggers anxiety[^3] in me. If I have communicated to you to email or text me and you keep calling me, I am going to find someone else.
-
-This may not be as extreme for other people, but it is important to understand what preferred method of communication is for any non-urgent things and stick it. Using multiple text based mediums, emails/whatsapp/text, make it difficult to organize information and chances of missing something are higher.
-
-
-
-
-##### Footnotes
-
-[^1]: It is not a yes, but was not supposed to a clear no either.
-[^2]: Person you are meeting, not necessarily a romantic date.
-[^3]: This when a loved was hospitalized and I used to get calls from hospital a lot.
+> Remember, good communication is about mutual respect and understanding. Always strive to be clear, considerate, and professional in your written interactions.
