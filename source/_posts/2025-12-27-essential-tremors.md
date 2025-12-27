@@ -33,7 +33,7 @@ Both times, I was taken to doctors and so on, but they could not figure out it i
 
 #### How it affected my life?
 
-My hand writing is aweful. Resulting in lower markers than I deserved.
+My hand writing is aweful. Resulting in lower marks than I deserved.
 
 I was often called clumsy, prone to breaking things. Or not paying attention.
 
