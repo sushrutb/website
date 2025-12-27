@@ -41,6 +41,8 @@ Especially when visiting someone else's house, I would often get bullying looks 
 
 After growing up, it did affect my dating life a little bit. At least until I got diagnosed and could explain the condition to myself and to my date.
 
+Learning a string musical instrument was very challenging and I gave up trying. It is possible to learn, of course. But initially very challenging.
+
 #### Minor adjustments to manage
 
 1. Use heavier pens. Of course nowadays writing by hand is not required as much. But if you know a kid who is in schoold and has *really* bad hand writing, worth investigating and getting a heavier pen.
