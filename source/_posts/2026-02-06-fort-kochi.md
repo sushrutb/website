@@ -72,4 +72,4 @@ I had bought a weeklong access for Rs 1000. Only 3-4 venues require entry fees.
 All performances are free to attend, but you do need to acquire a token due to limited seating, available 30mins before start time.
 
 
-> Fort Kochi is worth visit if you are interested in exploring vibrant cities that are culturally rich. Worth visiting during Biennable festival.
+> Fort Kochi is worth visit if you are interested in exploring vibrant cities that are culturally rich. Worth visiting during Biennale festival.
