@@ -33,6 +33,20 @@
         white-space: nowrap; // this sets all children inside to nowrap
       }
     }
+
+    @media (max-width: 600px) {
+      white-space: pre-wrap;
+      word-break: break-word;
+      overflow-x: visible;
+
+      code {
+        white-space: pre-wrap;
+
+        * {
+          white-space: pre-wrap;
+        }
+      }
+    }
   }
 
 
