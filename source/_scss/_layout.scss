@@ -338,7 +338,7 @@ body.home {
 
   li {
     display: inline-block;
-    padding: 0 ($base-spacing/2.5);
+    padding: 0 calc($base-spacing / 2.5);
   }
 
   a {
