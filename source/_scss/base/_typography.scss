@@ -10,6 +10,9 @@ body {
   font-size: $base-font-size;
   font-weight: $font-weight-normal;
   line-height: $base-line-height;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 h1,
@@ -23,41 +26,39 @@ h6 {
   line-height: $heading-line-height;
   font-weight: $font-weight-bold;
   margin: 0 0 $small-spacing;
+  letter-spacing: -0.01em;
 }
 
 h1 {
-  font-size: rem(30);
+  font-size: rem(36);
+  letter-spacing: -0.02em;
 }
 
 h2 {
-  font-size: rem(26);
+  font-size: rem(28);
+  letter-spacing: -0.015em;
 }
 
 h3 {
-  font-size: rem(24);
-  text-decoration: underline;
-  text-underline-offset: 5px;
-  text-decoration-color: $text-decoration-color;
+  font-size: rem(22);
+  font-weight: 600;
 }
 
 h4 {
-  font-size: rem(20);
-  text-decoration: underline;
-  text-underline-offset: 5px;
-  text-decoration-color: $text-decoration-color;
+  font-size: rem(19);
+  font-weight: 600;
 }
 
 h5,
 h6 {
-  font-size: rem(18);
-  text-decoration: underline;
-  text-underline-offset: 5px;
-  text-decoration-color: $text-decoration-color;
+  font-size: rem(17);
+  font-weight: 600;
 }
 
 p {
-  margin: 0 0 $small-spacing;
+  margin: 0 0 $base-spacing;
   font-weight: $font-weight-light;
+  line-height: $base-line-height;
 }
 
 em {
@@ -96,28 +97,33 @@ picture {
 
 code {
   background: none;
-  border-radius: 0;
+  border-radius: 4px;
   border: none;
-  font-family: "Courier New", monospace;
-  font-size: 0.9em;
+  font-family: $mono-font-family;
+  font-size: 0.875em;
   margin: 0;
-  padding: 0 5px;
+  padding: 0.15em 0.4em;
   background-color: lighten($light-gray-color, 6%);
+  color: darken($base-font-color, 10%);
 }
 
 pre {
   -webkit-overflow-scrolling: touch;
-  font-family: "Courier New", monospace;
-  font-size: 0.9em;
+  font-family: $mono-font-family;
+  font-size: 0.875em;
   margin: 0;
+  border-radius: 6px;
 
   code {
-    line-height: 1.75em;
+    line-height: 1.65em;
+    padding: 0;
+    background: none;
+    border-radius: 0;
   }
 }
 
 strong {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 sup {
@@ -126,6 +132,6 @@ sup {
 
 pre {
   text-wrap: pretty !important;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
 }
