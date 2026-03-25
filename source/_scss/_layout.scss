@@ -510,12 +510,53 @@ body.home {
 .site-footer {
   background-color: $white-color;
   border-top: 1px solid rgba($light-gray-color, .5);
-  padding: $base-spacing;
-  text-align: center;
+  padding: 2em 0;
+  margin-top: 2em;
+}
 
-  p {
-    margin: 0;
+.footer-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+}
+
+.footer-links {
+  display: flex;
+  gap: 1.5em;
+
+  a {
+    font-size: rem(13);
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: $medium-gray-color;
+
+    &:hover {
+      color: $dark-gray-color;
+    }
   }
+}
+
+.footer-social {
+  display: flex;
+  gap: 1.25em;
+
+  a {
+    color: lighten($medium-gray-color, 10%);
+    font-size: 1.1em;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+.footer-copy {
+  font-size: rem(12);
+  color: lighten($medium-gray-color, 15%);
+  margin: 0;
+  letter-spacing: 0.02em;
 }
 
 .github-corner {
