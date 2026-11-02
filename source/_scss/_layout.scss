@@ -208,10 +208,25 @@ body {
   }
 }
 
-// home hero presentation
+// home: the PresenceWave links widget fills the page below the top banner
 body.home {
-  width: 100%;
-  display: table;
+  // no border: the fixed top banner pads the body by its own height, so a border shows as a gap under it
+  border-top: 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  min-height: 100vh;
+  height: auto;
+
+  [data-widget="LINKS_WIDGET"] {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+
+    > div[id^="links-widget-"] {
+      flex: 1;
+    }
+  }
 }
 
 .hero {
